@@ -1,0 +1,103 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 964
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 26
+	Country: Denmark ; Times: 1
+	Country: Morocco ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-07 ; Times: 3
+	Date: 2018-05-04 ; Times: 3
+	Date: 2018-05-05 ; Times: 3
+	Date: 2018-05-02 ; Times: 2
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 3
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-29 ; Times: 6
+	Date: 2018-05-31 ; Times: 18
+	Date: 2018-05-10 ; Times: 3
+	Date: 2018-05-11 ; Times: 2
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Semicossyphus" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "barbulifer mexicanus" ; Times: 2
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "seastar" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "genus:Polylepion" ; Times: 1
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "blue shark" ; Times: 2
+	Query: "specificepithet:tiburo genus:Sphyrna country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "isla lobos" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "brama dussumieri" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 2
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "MV 4205" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "BOLLMANNIA UMBROSA" ; Times: 1
+	Query: "specificepithet:semisquamatum genus:Pycnomma" ; Times: 1
+	Query: "Apogon atricaudus" ; Times: 7
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "xiphias" ; Times: 1
+	Query: "Apogon atradorsatus" ; Times: 3
+	Query: "Robinsia" ; Times: 2
+	Query: "DM 7774" ; Times: 2
+	Query: "Apogon retrosella" ; Times: 8
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "distance(location,geopoint(41.9940224167435,-83.301798682683))&lt;9649" ; Times: 1
+	Query: "distance(location,geopoint(42.0904418740985,-83.2832567278143))&lt;8407" ; Times: 1
+	Query: "Gobiesox adustus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1178 download events in this period)
+Total number of records downloaded: 63
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "xiphias" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "morone americana" ; Times: 1
+
+
+End of report.

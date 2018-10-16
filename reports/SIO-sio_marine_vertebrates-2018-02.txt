@@ -1,0 +1,213 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 253
+Number of records retrieved in searches: 2490
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 104
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 132
+	Country: Japan ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 17
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-23 ; Times: 6
+	Date: 2018-02-17 ; Times: 12
+	Date: 2018-02-11 ; Times: 3
+	Date: 2018-02-27 ; Times: 12
+	Date: 2018-02-20 ; Times: 29
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 18
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-22 ; Times: 30
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 5
+	Date: 2018-02-06 ; Times: 10
+	Date: 2018-02-05 ; Times: 94
+	Date: 2018-02-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 1
+	Query: "leptochilichthys" ; Times: 1
+	Query: "Rivulidae" ; Times: 2
+	Query: "ostracion meleagris" ; Times: 1
+	Query: "(ott)" ; Times: 1
+	Query: "Paracanthurus hepatus" ; Times: 1
+	Query: "metynnis mola" ; Times: 1
+	Query: "specificepithet:alberti genus:Hydrolagus" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "paraholtbyrnia" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 4
+	Query: "bathylaco nigricans" ; Times: 1
+	Query: "specificepithet:glauca genus:Prionace country:&#34;Mexico&#34;" ; Times: 1
+	Query: "searsia koefoedi" ; Times: 1
+	Query: "Heterodontus mexicanus" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "specificepithet:limbatus genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 2
+	Query: "Naso brevirostris mappable:1" ; Times: 2
+	Query: "specificepithet:leucas genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "Arizona elegans Sonora" ; Times: 1
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "Pontinus" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "recordedby:f. w. powell" ; Times: 1
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Naso minor" ; Times: 1
+	Query: "Urobatis concentricus" ; Times: 8
+	Query: "latimeriidae" ; Times: 1
+	Query: "scientificname:&#34;climacoporus navalis&#34;" ; Times: 1
+	Query: "Prionurus microlepidotus" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 2
+	Query: "Acanthurus achilles" ; Times: 1
+	Query: "leptochilichthys agassizii" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 6
+	Query: "Rhincodon typus" ; Times: 6
+	Query: "persparsia kopua" ; Times: 1
+	Query: "Polypteriformes" ; Times: 2
+	Query: "Acanthurus nigricans mappable:1" ; Times: 5
+	Query: "hydrolycus scomberoides" ; Times: 2
+	Query: "Prionurus laticlavius mappable:1" ; Times: 1
+	Query: "specificepithet:lobatus genus:sphoeroides" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "specificepithet:brachyurus genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 3
+	Query: "scientificname:&#34;sabanejewia larvata&#34;" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "scientificname:&#34;axoclinus storeyae&#34;" ; Times: 1
+	Query: "Naso lituratus mappable:1" ; Times: 2
+	Query: "maulisia mauli" ; Times: 1
+	Query: "specificepithet:rosenblatti genus:sphoeroides" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 1
+	Query: "recordedby:f. powell" ; Times: 1
+	Query: "distance(location,geopoint(42.0647316641425,-83.1883640004999))&lt;5490" ; Times: 4
+	Query: "specificepithet:longimanus genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "einara" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "Platyrhinoidis triseriata" ; Times: 16
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "Acanthurus triostegus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Cetorhinus maximus" ; Times: 9
+	Query: "specificepithet:altimus genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "clepsydra" ; Times: 2
+	Query: "scientificname:&#34;neoclinus lacunicola&#34;" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "Mitsukurina owstoni" ; Times: 2
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Ctenochaetus marginatus" ; Times: 1
+	Query: "Acanthurus gahhm" ; Times: 2
+	Query: "Ogilbia suarezae" ; Times: 2
+	Query: "genus:Carcharhinus country:&#34;mexico&#34;" ; Times: 5
+	Query: "exodon paradoxus" ; Times: 1
+	Query: "Acanthurus bahianus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;protemblemaria perla&#34;" ; Times: 1
+	Query: "Manta birostris" ; Times: 4
+	Query: "Prionurus punctatus mappable:1" ; Times: 1
+	Query: "Phthanophaneron harveyi" ; Times: 4
+	Query: "Acanthurus gahhm mappable:1" ; Times: 2
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 1
+	Query: "Hydrolagus Alberti" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "Ctenochaetus truncatus" ; Times: 1
+	Query: "subaspera" ; Times: 1
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 5
+	Query: "Naso minor mappable:1" ; Times: 1
+	Query: "Prionurus hopkinsi mappable:1" ; Times: 1
+	Query: "stylephorus chordatus" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 1
+	Query: "Prionurus hopkinsi" ; Times: 1
+	Query: "scientificname:&#34;lupinoblennius vinctus&#34;" ; Times: 1
+	Query: "Ctenochaetus cyanoguttatus mappable:1" ; Times: 2
+	Query: "Discopyge tschudii" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 1
+	Query: "Hydrolagus melanophasma" ; Times: 11
+	Query: "melanophasma" ; Times: 1
+	Query: "polypteriformes" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 3
+	Query: "Carcharhinus longimanus" ; Times: 19
+	Query: "Acanthurus bahianus" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 1
+	Query: "Mustelus henlei" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "mirorictus" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1892 download events in this period)
+Total number of records downloaded: 1044
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 7
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 4
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "genus:Oncorhynchus stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+	Query: "istiblennius lineatus" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Heterodontus mexicanus" ; Times: 1
+	Query: "Prionace glauca" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "Carcharhinus longimanus" ; Times: 2
+	Query: "pterois volitans" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;California&#34; year &lt;= 1930" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,163 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 1274
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 27
+	Country: Mexico ; Times: 25
+	Country: United States ; Times: 75
+	Country: Germany ; Times: 11
+	Country: Belgium ; Times: 16
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-10 ; Times: 3
+	Date: 2018-09-28 ; Times: 8
+	Date: 2018-09-05 ; Times: 6
+	Date: 2018-09-13 ; Times: 25
+	Date: 2018-09-24 ; Times: 4
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 16
+	Date: 2018-09-27 ; Times: 10
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-21 ; Times: 9
+	Date: 2018-09-04 ; Times: 18
+	Date: 2018-09-16 ; Times: 6
+	Date: 2018-09-19 ; Times: 21
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-20 ; Times: 8
+	Date: 2018-09-09 ; Times: 1
+	Date: 2018-09-03 ; Times: 5
+	Date: 2018-09-29 ; Times: 4
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:manis genus:lepidopus" ; Times: 2
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "SIO 61-176" ; Times: 1
+	Query: "astyanax cave" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "gasterosteus california &#34;san luis obispo&#34; vntype:specimen" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "Ageneiosus atronasus" ; Times: 1
+	Query: "Megachasma pelagios" ; Times: 6
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 2
+	Query: "Photonectes achirus" ; Times: 1
+	Query: "Maulisia argipalla" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Icichthys lockingtoni" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:semisquamata institutioncode:SIO" ; Times: 1
+	Query: "specificepithet:diapterus genus:Lycodes hastissue:1" ; Times: 1
+	Query: "Microlophichthys andracanthus" ; Times: 1
+	Query: "specificepithet:diapterus genus:Lycodes institutioncode:SIO hastissue:1" ; Times: 1
+	Query: "Borostomias antarcticus" ; Times: 1
+	Query: "specificepithet:nitens genus:trichiurus hastissue:1" ; Times: 1
+	Query: "Pycnomma semisquamatum" ; Times: 1
+	Query: "saccopharynx" ; Times: 2
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "pempheris mangula" ; Times: 1
+	Query: "photoblepharon steinitzi" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 4
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "Danaphryne nigrifilis" ; Times: 10
+	Query: "Doryrhamphus hastissue:1" ; Times: 1
+	Query: "specificepithet:manis genus:Lepidopus" ; Times: 2
+	Query: "octopus" ; Times: 1
+	Query: "Phyllorhinichthys balushkini" ; Times: 5
+	Query: "LYTHRYPNUS ZEBRA" ; Times: 1
+	Query: "stateprovince:&#34;california&#34; recordedby:wheeler" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "elassodiscus" ; Times: 1
+	Query: "Holtbyrnia melanocephala" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Leptochilichthys pinguis" ; Times: 1
+	Query: "Leptostomias bilobatus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:barbulifer institutioncode:SIO" ; Times: 1
+	Query: "lythrypnus pulchellus" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "genus:Lycodapus institutioncode:SIO hastissue:1" ; Times: 1
+	Query: "scientificname:(Nocomis micropogon) country:United States mappable:1" ; Times: 1
+	Query: "Ulvicola sanctaerosae" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Liparis mucosus" ; Times: 2
+	Query: "ucla 946" ; Times: 1
+	Query: "genus:trichiurus hastissue:1" ; Times: 3
+	Query: "ucla 820" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "ucla 9801" ; Times: 2
+	Query: "Lampanyctus macdonaldi" ; Times: 2
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 2
+	Query: "institutioncode:SIO" ; Times: 1
+	Query: "white shark" ; Times: 13
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "anemone" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Myrophis plumbeus" ; Times: 1
+	Query: "scientificname:(Acipenser transmontanus) country:United States mappable:1" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "Guadalupe Island 1899" ; Times: 1
+	Query: "scientificname:(Clinostomus elongatus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Lycodes institutioncode:SIO hastissue:1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "locality:Corinto" ; Times: 4
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 1
+	Query: "genus:chriolepis institutioncode:SIO" ; Times: 2
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "Hypsoblennius jenkinsi" ; Times: 1
+	Query: "macrocystis pyrifera" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 846 download events in this period)
+Total number of records downloaded: 189
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Wolverine" ; Times: 3
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Macropinna" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+
+
+End of report.

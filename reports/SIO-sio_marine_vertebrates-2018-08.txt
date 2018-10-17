@@ -1,0 +1,181 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 127
+Number of records retrieved in searches: 1456
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 112
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-27 ; Times: 56
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-18 ; Times: 1
+	Date: 2018-08-08 ; Times: 4
+	Date: 2018-08-01 ; Times: 7
+	Date: 2018-08-30 ; Times: 11
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-24 ; Times: 5
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 7
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 7
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-17 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ogcocephalus hastissue:1" ; Times: 5
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "Rhinecanthus rectangulus" ; Times: 1
+	Query: "Pseudobalistes naufragium" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 3
+	Query: "parapteronotus" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "Sciaenidae lima peru" ; Times: 1
+	Query: "T-1484" ; Times: 1
+	Query: "sphoeroides kendalli" ; Times: 1
+	Query: "Melichthys niger" ; Times: 1
+	Query: "Canthidermis sufflamen" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 3
+	Query: "Balistes bursa" ; Times: 1
+	Query: "locality:sand creek stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "peprilus ovatus" ; Times: 2
+	Query: "V 1128" ; Times: 1
+	Query: "Balistapus undulatus" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "rats" ; Times: 1
+	Query: "order:Osmeriformes country:&#34;Peru&#34;" ; Times: 1
+	Query: "T 1484" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 2
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "Anguilla japonica" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 1
+	Query: "Balistes verres mappable:1" ; Times: 1
+	Query: "cetomimidae" ; Times: 2
+	Query: "argyrogaster" ; Times: 2
+	Query: "Balistes fuscus" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Abalistes stellaris" ; Times: 2
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Balistes fuscus mappable:1" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Xanthichthys ringens" ; Times: 2
+	Query: "Paralabrax auroguttatus" ; Times: 2
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "Canthidermis maculatus mappable:1" ; Times: 2
+	Query: "specificepithet:Japonica genus:Brama institutioncode:SIO" ; Times: 2
+	Query: "Pelamis (Japan)" ; Times: 1
+	Query: "Balistes minor" ; Times: 1
+	Query: "latimeria vntype:specimen" ; Times: 2
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 4
+	Query: "Hydrophis belcheri" ; Times: 2
+	Query: "Balistes polylepis" ; Times: 1
+	Query: "Balistes um" ; Times: 1
+	Query: "Evermannia longipinnis" ; Times: 1
+	Query: "Balistoides viridescens" ; Times: 1
+	Query: "V-1128" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Channa micropeltes" ; Times: 2
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Normanichthys" ; Times: 3
+	Query: "Boreogadus saida mappable:1" ; Times: 3
+	Query: "Odonus niger" ; Times: 1
+	Query: "Xanthichthys lineopunctatus" ; Times: 1
+	Query: "Balistes bursa mappable:1" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "Balistes verres" ; Times: 1
+	Query: "Parapteronotus" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 3
+	Query: "genus:Xiphophorus" ; Times: 1
+	Query: "latimeria" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Balistes um mappable:1" ; Times: 1
+	Query: "vogelsang lake" ; Times: 1
+	Query: "Rhinecanthus aculeatus aculeatus mappable:1" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Xanthichthys mento" ; Times: 1
+	Query: "order:Cetacea institutioncode:SIO" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "bivalve" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 3
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Pseudobalistes naufragium mappable:1" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "Balistes minor mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1416 download events in this period)
+Total number of records downloaded: 845
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 7
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-01 ; Times: 4
+	Date: 2018-08-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Paralabrax auroguttatus" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 1
+	Query: "Anisotremus virginicus" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "ogcocephalus hastissue:1" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "&#34;Channa micropeltes&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "Pelamis (Japan)" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.

@@ -1,0 +1,170 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 202
+Number of records retrieved in searches: 1663
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 185
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 1
+	Date: 2018-06-10 ; Times: 5
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 2
+	Date: 2018-06-28 ; Times: 3
+	Date: 2018-06-01 ; Times: 11
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-29 ; Times: 2
+	Date: 2018-06-13 ; Times: 42
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-21 ; Times: 95
+	Date: 2018-06-20 ; Times: 25
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "Naso minor" ; Times: 2
+	Query: "ogilbia robertsoni" ; Times: 3
+	Query: "Tomicodon zebra" ; Times: 2
+	Query: "Prionurus microlepidotus mappable:1" ; Times: 2
+	Query: "dodo" ; Times: 2
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "Acanthurus gahhm" ; Times: 4
+	Query: "Ctenochaetus truncatus" ; Times: 2
+	Query: "catalognumber:64-804 institutioncode:SIO" ; Times: 1
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 2
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Acanthurus gahhm mappable:1" ; Times: 4
+	Query: "Paracanthurus hepatus" ; Times: 2
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "298+785" ; Times: 1
+	Query: "Acanthurus leucosternon" ; Times: 4
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "Naso brevirostris" ; Times: 3
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "SPHOEROIDES ANNULATUS vntype:specimen institutioncode:SIO" ; Times: 2
+	Query: "Naso lituratus" ; Times: 3
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "SPHOEROIDES lispus vntype:specimen institutioncode:SIO" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Ctenochaetus marginatus mappable:1" ; Times: 2
+	Query: "Acanthurus nigricans" ; Times: 9
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "Prionurus hopkinsi" ; Times: 1
+	Query: "Gila bicolor" ; Times: 3
+	Query: "Acanthurus nigricans mappable:1" ; Times: 9
+	Query: "catalognumber:09-355 institutioncode:SIO" ; Times: 1
+	Query: "Prionurus hopkinsi mappable:1" ; Times: 1
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "lebiasina" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "Ctenochaetus cyanoguttatus mappable:1" ; Times: 2
+	Query: "Prionurus punctatus mappable:1" ; Times: 2
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Prionurus laticlavius" ; Times: 2
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "Ctenochaetus marginatus" ; Times: 2
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "Mycteroperca pardalis" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "Acanthurus mata" ; Times: 5
+	Query: "Prionurus punctatus" ; Times: 2
+	Query: "catalognumber:35 institutioncode:SIO" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "SPHOEROIDES lobatus vntype:specimen institutioncode:SIO" ; Times: 2
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Robinsia" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "azurina hirundo" ; Times: 1
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "Naso minor mappable:1" ; Times: 2
+	Query: "Seal Fur" ; Times: 2
+	Query: "Prionurus microlepidotus" ; Times: 2
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "Tomicodon absitus" ; Times: 3
+	Query: "Prionurus laticlavius mappable:1" ; Times: 2
+	Query: "Ctenochaetus cyanoguttatus" ; Times: 2
+	Query: "Naso brevirostris mappable:1" ; Times: 3
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "Cyprinodon macularius" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "ogcocephalus darwini institutioncode:SIO" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1169 download events in this period)
+Total number of records downloaded: 9150
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 7
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-07 ; Times: 3
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "stateprovince:&#34;california&#34; recordedby:hubbs year &gt;= 1948 year &lt;= 1948" ; Times: 1
+	Query: "Guadalupe Island specificepithet:mexicanus" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "Mycteroperca rosacea" ; Times: 1
+	Query: "SPHOEROIDES ANNULATUS vntype:specimen institutioncode:SIO" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Mycteroperca jordani" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "lingcod" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "Mycteroperca xenarcha" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "SPHOEROIDES lobatus vntype:specimen institutioncode:SIO" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "Robinsia" ; Times: 1
+	Query: "Mycteroperca pardalis" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "SPHOEROIDES lispus vntype:specimen institutioncode:SIO" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.

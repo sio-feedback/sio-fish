@@ -1,0 +1,149 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 174
+Number of records retrieved in searches: 1729
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 4
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 21
+	Country: France ; Times: 85
+	Country: United States ; Times: 42
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 30
+	Date: 2019-01-23 ; Times: 30
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-15 ; Times: 5
+	Date: 2019-01-30 ; Times: 47
+	Date: 2019-01-17 ; Times: 8
+	Date: 2019-01-11 ; Times: 1
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 10
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 3
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 5
+	Date: 2019-01-09 ; Times: 5
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 11
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:La Mision stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ogcocephalus hastissue:1" ; Times: 3
+	Query: "isla utila" ; Times: 3
+	Query: "SIO Marine Vertebrate Collection" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Aidablennius sphynx mappable:1" ; Times: 4
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Mobula japanica" ; Times: 1
+	Query: "Hirundichthys indicus orientalis" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "SIO Marine Vertebrates 00-99" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 5
+	Query: "Ophisurus serpens mappable:1" ; Times: 2
+	Query: "Agonus cataphractus mappable:1" ; Times: 4
+	Query: "&#34;San Miguel Island&#34; AND 1858" ; Times: 1
+	Query: "parrella maxillaris" ; Times: 3
+	Query: "pristis" ; Times: 2
+	Query: "locality:Juncalito" ; Times: 1
+	Query: "72 ornata" ; Times: 1
+	Query: "Zapteryx" ; Times: 2
+	Query: "Lepadogaster lepadogaster mappable:1" ; Times: 2
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "Spicara smaris mappable:1" ; Times: 2
+	Query: "Raja miraletus mappable:1" ; Times: 2
+	Query: "seriola rivoliana" ; Times: 1
+	Query: "Myoxocephalus scorpioides mappable:1" ; Times: 2
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "Trachinus draco mappable:1" ; Times: 1
+	Query: "raja rhina" ; Times: 3
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "Lichia amia mappable:1" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "Rosana" ; Times: 1
+	Query: "Spicara maena mappable:1" ; Times: 1
+	Query: "Osmerus eperlanus mappable:1" ; Times: 2
+	Query: "marine shells" ; Times: 1
+	Query: "Parablennius sanguinolentus mappable:1" ; Times: 2
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Oblada melanura mappable:1" ; Times: 2
+	Query: "xenicus" ; Times: 1
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "gbifdatasetid:e1a01804-881b-42ae-8f97-1e80f697fd56" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "Coryphoblennius galerita mappable:1" ; Times: 4
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Nerophis maculatus mappable:1" ; Times: 2
+	Query: "Gobius paganellus mappable:1" ; Times: 3
+	Query: "ucla 3054" ; Times: 1
+	Query: "Cynoglossus sibogae" ; Times: 4
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "crabs" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "institutioncode:SIO" ; Times: 2
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "NMS" ; Times: 1
+	Query: "Odontaspis ferox mappable:1" ; Times: 2
+	Query: "hypsypops rubicundus" ; Times: 4
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 4
+	Query: "&#34;San Miguel Island&#34; AND 1870" ; Times: 1
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "Cynoglossus robustus" ; Times: 1
+	Query: "elacatinus horsti" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "Lipophrys pholis mappable:1" ; Times: 2
+	Query: "Bathygobius lineatus" ; Times: 1
+	Query: "Halichoeres lapillus" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "Parrella maxillaris" ; Times: 3
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "Diodon eydouxii institutioncode:SIO" ; Times: 2
+	Query: "Pristis" ; Times: 6
+	Query: "Rhincodon typus mappable:1" ; Times: 2
+	Query: "anoxypristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 962 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+
+
+End of report.

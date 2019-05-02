@@ -1,0 +1,247 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 289
+Number of records retrieved in searches: 5216
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 49
+	Country: United States ; Times: 176
+	Country: Chile ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Norway ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 15
+	Date: 2019-04-19 ; Times: 49
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 6
+	Date: 2019-04-15 ; Times: 8
+	Date: 2019-04-14 ; Times: 4
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-02 ; Times: 139
+	Date: 2019-04-03 ; Times: 8
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 2
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 3
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-25 ; Times: 4
+	Date: 2019-04-29 ; Times: 4
+	Date: 2019-04-08 ; Times: 15
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Cirriemblemaria lucasana mappable:1" ; Times: 2
+	Query: "specificepithet:typus genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chaenopsis coheni" ; Times: 2
+	Query: "Stathmonotus stahli mappable:1" ; Times: 1
+	Query: "SCARUS perrico" ; Times: 3
+	Query: "Emblemariopsis randalli mappable:1" ; Times: 1
+	Query: "Neoclinus okazakii" ; Times: 1
+	Query: "Emblemaria nivipes" ; Times: 2
+	Query: "Neoclinus stephensae mappable:1" ; Times: 1
+	Query: "Coralliozetus rosenblatti" ; Times: 2
+	Query: "Emblemaria nivipes mappable:1" ; Times: 2
+	Query: "Cirriemblemaria lucasana" ; Times: 2
+	Query: "Ekemblemaria myersi mappable:1" ; Times: 2
+	Query: "Stathmonotus culebrai" ; Times: 1
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 4
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "Chaenopsis alepidota" ; Times: 4
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "Chaenopsis schmitti mappable:1" ; Times: 2
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 2
+	Query: "SCARUS rubroviolaceus" ; Times: 1
+	Query: "Stathmonotus gymnodermis" ; Times: 1
+	Query: "Pelvicachromis pulcher" ; Times: 1
+	Query: "Emblemaria diphyodontis" ; Times: 2
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "cyprinodon diabolis" ; Times: 1
+	Query: "Chaenopsis alepidota mappable:1" ; Times: 5
+	Query: "Coralliozetus boehlkei mappable:1" ; Times: 2
+	Query: "Stathmonotus culebrai mappable:1" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Paralonchurus brasiliensis mappable:1" ; Times: 2
+	Query: "Emblemariopsis tayrona" ; Times: 1
+	Query: "Neoclinus lacunicola mappable:1" ; Times: 1
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "ceratias" ; Times: 4
+	Query: "Ekemblemaria myersi" ; Times: 2
+	Query: "Heteropriacanthus cruentatus mappable:1" ; Times: 1
+	Query: "SCARUS COMPRESSUS" ; Times: 2
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 7
+	Query: "Neoclinus stephensae" ; Times: 1
+	Query: "Mccoskerichthys sandae" ; Times: 1
+	Query: "Hemiemblemaria simulus mappable:1" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "Emblemariopsis ruetzleri mappable:1" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Neoclinus okazakii mappable:1" ; Times: 1
+	Query: "Coralliozetus angelicus" ; Times: 2
+	Query: "sio 75-452" ; Times: 1
+	Query: "institutioncode:SIO ethanol" ; Times: 1
+	Query: "catalognumber:1293 institutioncode:SIO" ; Times: 1
+	Query: "Coralliozetus micropes" ; Times: 2
+	Query: "northern elephant seal" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "Trinectes paulistanus mappable:1" ; Times: 2
+	Query: "Emblemaria hypacanthus" ; Times: 2
+	Query: "nicholsina denticulata" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 2
+	Query: "genus:rhincodon basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Protemblemaria perla mappable:1" ; Times: 1
+	Query: "catalognumber:75-452 institutioncode:SIO" ; Times: 2
+	Query: "Stathmonotus gymnodermis mappable:1" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "Neoclinus uninotatus mappable:1" ; Times: 1
+	Query: "Paralichthys brasiliensis mappable:1" ; Times: 1
+	Query: "Coralliozetus angelicus mappable:1" ; Times: 2
+	Query: "Chaenopsis limbaughi mappable:1" ; Times: 2
+	Query: "optivus elongatus" ; Times: 4
+	Query: "Chaenopsis deltarrhis" ; Times: 2
+	Query: "Sander lucioperca" ; Times: 2
+	Query: "Stathmonotus lugubris mappable:1" ; Times: 1
+	Query: "Stathmonotus sinuscalifornici" ; Times: 1
+	Query: "Neoclinus bryope" ; Times: 1
+	Query: "Emblemaria walkeri" ; Times: 1
+	Query: "Cyprinodon eremus" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 1
+	Query: "Emblemariopsis bahamensis mappable:1" ; Times: 1
+	Query: "catalognumber:778 institutioncode:SIO" ; Times: 1
+	Query: "trachichthys australis" ; Times: 1
+	Query: "Emblemariopsis pricei" ; Times: 1
+	Query: "Coralliozetus cardonae mappable:1" ; Times: 2
+	Query: "Chaenopsis schmitti" ; Times: 2
+	Query: "distance(location,geopoint(-31.927954903826922,-75.85279751308485))&lt;100000" ; Times: 1
+	Query: "Neoclinus uninotatus" ; Times: 1
+	Query: "Emblemariopsis randalli" ; Times: 1
+	Query: "Eustomias enbarbatus" ; Times: 2
+	Query: "Zostera marina mappable:1" ; Times: 1
+	Query: "Coralliozetus micropes mappable:1" ; Times: 2
+	Query: "Haemulopsis corvinaeformis mappable:1" ; Times: 1
+	Query: "Benthosema panamense" ; Times: 3
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Emblemaria pandionis" ; Times: 1
+	Query: "psychrolutes phrictus" ; Times: 1
+	Query: "Emblemaria piratica mappable:1" ; Times: 1
+	Query: "Neoclinus nudus" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "Protemblemaria perla" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Chaenopsis coheni mappable:1" ; Times: 2
+	Query: "Neoclinus bryope mappable:1" ; Times: 1
+	Query: "Coralliozetus springeri" ; Times: 2
+	Query: "Neoclinus toshimaensis" ; Times: 1
+	Query: "Emblemariopsis dianae" ; Times: 1
+	Query: "Emblemariopsis bahamensis" ; Times: 1
+	Query: "Micromesistius poutassou mappable:1" ; Times: 5
+	Query: "Centriscus scutatus" ; Times: 2
+	Query: "locality:black slough" ; Times: 1
+	Query: "Ekemblemaria nigra mappable:1" ; Times: 2
+	Query: "Emblemariopsis dianae mappable:1" ; Times: 1
+	Query: "ZMUC" ; Times: 1
+	Query: "Ruvettus pretiosus" ; Times: 2
+	Query: "Neoclinus nudus mappable:1" ; Times: 1
+	Query: "Astronesthes cyaneus" ; Times: 2
+	Query: "Neoclinus blanchardi mappable:1" ; Times: 1
+	Query: "Emblemariopsis pricei mappable:1" ; Times: 1
+	Query: "Coralliozetus boehlkei" ; Times: 2
+	Query: "Symphurus tessellatus mappable:1" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "specificepithet:altivelis genus:Sebastolobus year &lt;= 1889" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "cnav" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 4
+	Query: "Coralliozetus springeri mappable:1" ; Times: 2
+	Query: "Neoclinus toshimaensis mappable:1" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "Zostera marina" ; Times: 1
+	Query: "institutioncode:SIO" ; Times: 4
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "Emblemaria piratica" ; Times: 1
+	Query: "Emblemaria pandionis mappable:1" ; Times: 1
+	Query: "catalognumber:157 institutioncode:SIO" ; Times: 1
+	Query: "Anarhichas lupus mappable:1" ; Times: 9
+	Query: "Emblemariopsis ruetzleri" ; Times: 1
+	Query: "Gadus morhua mappable:1" ; Times: 4
+	Query: "Chaenopsis limbaughi" ; Times: 2
+	Query: "anemone" ; Times: 1
+	Query: "Stathmonotus sinuscalifornici mappable:1" ; Times: 1
+	Query: "Coralliozetus rosenblatti mappable:1" ; Times: 2
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "Nicholsina denticulata" ; Times: 6
+	Query: "Hemiemblemaria simulus" ; Times: 1
+	Query: "Ekemblemaria nigra" ; Times: 2
+	Query: "flavicauda" ; Times: 1
+	Query: "Emblemaria walkeri mappable:1" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "rathbunella alleni" ; Times: 3
+	Query: "Psenes sio" ; Times: 2
+	Query: "Neoclinus lacunicola" ; Times: 1
+	Query: "Stathmonotus stahli" ; Times: 1
+	Query: "Mccoskerichthys sandae mappable:1" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 4
+	Query: "parapriacanthus dispar" ; Times: 1
+	Query: "Stellifer rastrifer mappable:1" ; Times: 2
+	Query: "Emblemaria diphyodontis mappable:1" ; Times: 2
+	Query: "Stathmonotus lugubris" ; Times: 1
+	Query: "Tanichthys albonubes" ; Times: 1
+	Query: "Emblemariopsis tayrona mappable:1" ; Times: 1
+	Query: "Coralliozetus cardonae" ; Times: 2
+	Query: "Emblemaria hypacanthus mappable:1" ; Times: 2
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "Chaenopsis deltarrhis mappable:1" ; Times: 2
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1263 download events in this period)
+Total number of records downloaded: 112
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Puma" ; Times: 1
+	Query: "northern elephant seal" ; Times: 1
+	Query: "Sebastolobus alascanus" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "country:&#34;Uruguay&#34;" ; Times: 1
+	Query: "specificepithet:gobio genus:Cottus" ; Times: 1
+
+
+End of report.

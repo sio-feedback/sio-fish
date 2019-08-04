@@ -1,0 +1,206 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 4427
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 156
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Japan ; Times: 8
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 16
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-19 ; Times: 3
+	Date: 2019-07-08 ; Times: 80
+	Date: 2019-07-12 ; Times: 12
+	Date: 2019-07-10 ; Times: 12
+	Date: 2019-07-11 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-03 ; Times: 4
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-21 ; Times: 1
+	Date: 2019-07-20 ; Times: 2
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-01 ; Times: 3
+	Date: 2019-07-16 ; Times: 2
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-02 ; Times: 8
+	Date: 2019-07-05 ; Times: 7
+	Date: 2019-07-04 ; Times: 2
+	Date: 2019-07-07 ; Times: 3
+	Date: 2019-07-06 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "Beringraja binoculata" ; Times: 1
+	Query: "genus:Gonostoma specificepithet:atlanticum" ; Times: 1
+	Query: "genus:Chirocentrodon specificepithet:bleekerianus" ; Times: 1
+	Query: "genus:Poromitra specificepithet:capito" ; Times: 1
+	Query: "genus:Scopelarchus specificepithet:guentheri" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "farallones" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "genus:Bollmannia specificepithet:chlamydes" ; Times: 1
+	Query: "genus:Cottus specificepithet:gobio" ; Times: 1
+	Query: "genus:Halargyreus" ; Times: 1
+	Query: "genus:Enneapterygius specificepithet:etheostoma " ; Times: 1
+	Query: "genus:Chilara" ; Times: 1
+	Query: "UCLA institutioncode:SIO" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 8
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "genus:Boleophthalmus specificepithet:boddarti" ; Times: 1
+	Query: "Island AND Blunt" ; Times: 1
+	Query: "torpedo california" ; Times: 1
+	Query: "peces" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "genus:Enchelyopus" ; Times: 1
+	Query: "genus:Sardina specificepithet:pilchardus" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:horsti" ; Times: 1
+	Query: "genus:Exallias specificepithet:brevis" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:puncticulatus" ; Times: 1
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "genus:Pliosteostoma specificepithet:lutipinnis" ; Times: 1
+	Query: "Utila" ; Times: 1
+	Query: "Amblyraja badia" ; Times: 1
+	Query: "Doryrhamphus paulus" ; Times: 3
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "specificepithet:(personatus OR hyalinus) genus:Coryphopterus" ; Times: 6
+	Query: "locality:TLAPACOYA country:&#34;mexico&#34; (tlapacoya)" ; Times: 1
+	Query: "genus:Tigrigobius specificepithet:limbaughi" ; Times: 1
+	Query: "genus:Cyclothone specificepithet:atraria" ; Times: 1
+	Query: "Raja rhina" ; Times: 4
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "genus:Schroederichthys specificepithet:chilensis" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "genus:Aristostomias specificepithet:grimaldii" ; Times: 1
+	Query: "genus:Lipariscus specificepithet:nanus" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "genus:Ostichthys" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "genus:Risor specificepithet:ruber" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:brevis" ; Times: 1
+	Query: "genus:Taaningichthys specificepithet:bathyphilus" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:steindachneri" ; Times: 1
+	Query: "genus:Aidablennius specificepithet:sphynx" ; Times: 1
+	Query: "gbifdatasetid:e1a01804-881b-42ae-8f97-1e80f697fd56" ; Times: 2
+	Query: "Doryrhamphus locality:Cabo San Lucas" ; Times: 3
+	Query: "DSL" ; Times: 1
+	Query: "genus:Triacanthus specificepithet:biaculeatus" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "genus:Diplophos specificepithet:taenia" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries NOT Canada NOT Fish" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:alberti" ; Times: 1
+	Query: "Ebosia bleekeri" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries NOT Canada" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "genus:Ramnogaster specificepithet:arcuata" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "genus:Neoopisthopterus specificepithet:tropicus" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "genus:Tigrigobius specificepithet:digueti" ; Times: 1
+	Query: "genus:Bothragonus specificepithet:swanii" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:starksi" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Bathyraja microtrachys" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Guadalupe Island AND 1903" ; Times: 1
+	Query: "Clepticus" ; Times: 1
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:reticulatus" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology" ; Times: 1
+	Query: "genus:Gymnocorymbus specificepithet:ternetzi" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 5
+	Query: "genus:Benthodesmus specificepithet:elongatus" ; Times: 1
+	Query: "tanque grande" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 3
+	Query: "genus:Leuroglossus specificepithet:stilbius" ; Times: 1
+	Query: "genus:Ostracion specificepithet:cubicus" ; Times: 1
+	Query: "genus:Cheilopogon specificepithet:melanurus" ; Times: 1
+	Query: "oryzias latipes" ; Times: 1
+	Query: "institutioncode:SIO" ; Times: 13
+	Query: "Lamna" ; Times: 1
+	Query: "gemmifer" ; Times: 1
+	Query: "genus:Melanostomias specificepithet:valdiviae" ; Times: 1
+	Query: "genus:Coryphoblennius specificepithet:galerita" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "genus:Bedotia specificepithet:madagascariensis" ; Times: 1
+	Query: "genus:Clupea specificepithet:harengus" ; Times: 1
+	Query: "genus:Aeoliscus specificepithet:strigatus" ; Times: 1
+	Query: "genus:Callogobius" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Pseudoscopelus" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "Acanthemblemaria rivasi" ; Times: 9
+	Query: "genus:Chilomycterus specificepithet:antennatus" ; Times: 1
+	Query: "genus:Aspasmogaster specificepithet:tasmaniensis" ; Times: 1
+	Query: "genus:Acantharchus specificepithet:pomotis" ; Times: 1
+	Query: "pterois russelli" ; Times: 1
+	Query: "genus:Anchovia specificepithet:macrolepidota" ; Times: 1
+	Query: "Green AND Guadalupe Island" ; Times: 2
+	Query: "genus:Allosmerus specificepithet:elongatus" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "genus:Helcogramma specificepithet:decurrens " ; Times: 1
+	Query: "genus:Parahypsos specificepithet:piersoni" ; Times: 1
+	Query: "genus:Blennius specificepithet:ocellaris" ; Times: 1
+	Query: "Island AND Blunt NOT Ichthyology NOT Fisheries" ; Times: 1
+	Query: "genus:Dellichthys specificepithet:morelandi" ; Times: 1
+	Query: "scientificname:(Gila nigrescens) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+	Query: "genus:Tarletonbeania specificepithet:crenularis" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 2
+	Query: "Macroramphosidae" ; Times: 1
+	Query: "genus:Dolicholagus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 985 download events in this period)
+Total number of records downloaded: 723
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-10 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;colombia&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Calotomus carolinus" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "Oryzias latipes" ; Times: 1
+	Query: "Acanthemblemaria rivasi" ; Times: 1
+	Query: "Protopterus" ; Times: 3
+
+
+End of report.

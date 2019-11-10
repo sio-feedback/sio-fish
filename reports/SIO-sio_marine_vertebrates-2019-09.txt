@@ -1,0 +1,247 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 2247
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Portugal ; Times: 25
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 87
+	Country: United States ; Times: 54
+	Country: Belgium ; Times: 7
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-16 ; Times: 8
+	Date: 2019-09-17 ; Times: 8
+	Date: 2019-09-10 ; Times: 72
+	Date: 2019-09-11 ; Times: 11
+	Date: 2019-09-12 ; Times: 2
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 16
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 16
+	Date: 2019-09-02 ; Times: 9
+	Date: 2019-09-01 ; Times: 2
+	Date: 2019-09-06 ; Times: 5
+	Date: 2019-09-05 ; Times: 8
+	Date: 2019-09-04 ; Times: 7
+	Date: 2019-09-20 ; Times: 7
+	Date: 2019-09-23 ; Times: 4
+	Date: 2019-09-22 ; Times: 12
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Mustelus lunulatus mappable:1" ; Times: 1
+	Query: "Anacapa AND 1951" ; Times: 1
+	Query: "locality:vicente stateprovince:&#34;baja california&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Crystallichthys cyclospilus mappable:1" ; Times: 1
+	Query: "&#34;Bathophilus schizochirus&#34;" ; Times: 1
+	Query: "Zapteryx exasperata mappable:1" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 5
+	Query: "&#34;Heterophotus ophistoma&#34;" ; Times: 1
+	Query: "Hemilepidotus spinosus mappable:1" ; Times: 1
+	Query: "Xenicus" ; Times: 1
+	Query: "specificepithet:gymnostethus genus:bellator" ; Times: 1
+	Query: "&#34;Microlophichthys microlophus&#34;" ; Times: 2
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1850 year &lt;= 1970" ; Times: 4
+	Query: "Icelus spiniger mappable:1" ; Times: 1
+	Query: "Odontaspis" ; Times: 1
+	Query: "class:Actinopterygii locality:Río la silla country:&#34;México&#34;" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "Seriola lalandi" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "Ophidion scrippsae" ; Times: 1
+	Query: "&#34;Bathyuroconger vicinus&#34;" ; Times: 2
+	Query: "Pristiophorus" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "Ammodytes personatus mappable:1" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Intake pipe" ; Times: 1
+	Query: "Antrostomus hastissue:1" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 7
+	Query: "Sebastes brevispinis mappable:1" ; Times: 1
+	Query: "Los Cabos" ; Times: 1
+	Query: "Urophycis floridanus mappable:1" ; Times: 1
+	Query: "Sharks" ; Times: 2
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "class:Actinopterygii locality:Río La Silla stateprovince:&#34;Nuevo León&#34; country:&#34;México&#34; continent:América" ; Times: 1
+	Query: "Poecilopsetta beanii mappable:1" ; Times: 1
+	Query: "Sphyraena argentea mappable:1" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "Desmodema lorum mappable:1" ; Times: 1
+	Query: "Tautogolabrus adspersus mappable:1" ; Times: 1
+	Query: "&#34;Diretmoides pauciradiatus&#34;" ; Times: 2
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "locality:San Benito Islands" ; Times: 1
+	Query: "Rhincodon typus" ; Times: 1
+	Query: "Aphanopus intermedius mappable:1" ; Times: 1
+	Query: "Microspathodon chrysurus mappable:1" ; Times: 1
+	Query: "&#34;Eustomias acinosus&#34;" ; Times: 4
+	Query: "specificepithet:stephanophrys genus:prionotus hastissue:1" ; Times: 1
+	Query: "&#34;Thalassobathia&#34;" ; Times: 2
+	Query: "institutioncode:SIO Catalina Island" ; Times: 1
+	Query: "olive ridley" ; Times: 2
+	Query: "Hypsoblennius hentz mappable:1" ; Times: 1
+	Query: "Decapterus tabl mappable:1" ; Times: 1
+	Query: "Prionotus punctatus mappable:1" ; Times: 1
+	Query: "specificepithet:gymnostethus genus:bellator hastissue:1" ; Times: 1
+	Query: "Beringraja binoculata mappable:1" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "Gymnachirus nudus mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 3
+	Query: "Río la Silla" ; Times: 2
+	Query: "Sebastes polyspinis mappable:1" ; Times: 1
+	Query: "Pontinus rathbuni mappable:1" ; Times: 1
+	Query: "Hippoglossina mystacium" ; Times: 5
+	Query: "Allocareproctus unangas mappable:1" ; Times: 4
+	Query: "Coregonus lavaretus mappable:1" ; Times: 1
+	Query: "Bathyagonus infraspinatus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:Rio la Silla country:&#34;México&#34;" ; Times: 1
+	Query: "Citharichthys dinoceros mappable:1" ; Times: 1
+	Query: "atherinella milleri" ; Times: 2
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "huatulco" ; Times: 1
+	Query: "Actinopterygii México Nuevo León Río la Silla" ; Times: 1
+	Query: "Blue Cavern" ; Times: 4
+	Query: "specificepithet:NICHOLSI genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "Bathyuroconger vicinus" ; Times: 1
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "specificepithet:miles genus:prionotus hastissue:1" ; Times: 1
+	Query: "Synodus intermedius mappable:1" ; Times: 1
+	Query: "Intake Pipes" ; Times: 1
+	Query: "Lycodes concolor mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Gempylus serpens mappable:1" ; Times: 1
+	Query: "specificepithet:CHIERCHIAE genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "Paralichthys brasiliensis" ; Times: 2
+	Query: "Rio la silla" ; Times: 1
+	Query: "Barbourisia rufa mappable:1" ; Times: 1
+	Query: "specificepithet:albirostris genus:prionotus hastissue:1" ; Times: 1
+	Query: "Loweina rara" ; Times: 1
+	Query: "Holacanthus clarionensis" ; Times: 1
+	Query: "specificepithet:birostratus genus:prionotus hastissue:1" ; Times: 1
+	Query: "isla ballena" ; Times: 1
+	Query: "&#34;Asquamiceps caeruleus&#34;" ; Times: 2
+	Query: "specificepithet:birostratus genus:prionotus" ; Times: 1
+	Query: "specificepithet:loxias genus:bellator hastissue:1" ; Times: 1
+	Query: "Stomias longibarbatus mappable:1" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "Catalina wrigley" ; Times: 3
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "country:&#34;tuvalu&#34;" ; Times: 2
+	Query: "Radulinus asprellus mappable:1" ; Times: 1
+	Query: "institutioncode:SIO" ; Times: 3
+	Query: "baxteri" ; Times: 1
+	Query: "Careproctus gilberti mappable:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:prionotus" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 5
+	Query: "specificepithet:DIPLOTAENIA genus:BODIANUS continent:AMERICA" ; Times: 1
+	Query: "Antigonia combatia mappable:1" ; Times: 1
+	Query: "ellice islands" ; Times: 1
+	Query: "specificepithet:horrens genus:prionotus hastissue:1" ; Times: 1
+	Query: "family:Gobiidae country:&#34;Peru&#34;" ; Times: 1
+	Query: "Paraclinus marmoratus mappable:1" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "Bathyraja spinosissima" ; Times: 1
+	Query: "Sarda orientalis mappable:1" ; Times: 1
+	Query: "Odontopyxis trispinosa mappable:1" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "specificepithet:NOTOSPILUS genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "class:Actinopterygii locality:Río la Silla country:&#34;México&#34;" ; Times: 1
+	Query: "Scomberesox saurus saurus mappable:1" ; Times: 1
+	Query: "Mycteroperca venenosa mappable:1" ; Times: 1
+	Query: "tuvalu" ; Times: 2
+	Query: "Xyrichtys splendens mappable:1" ; Times: 1
+	Query: "locality:Cerralbo stateprovince:&#34;Baja California Sur&#34;" ; Times: 1
+	Query: "Squalus suckleyi mappable:1" ; Times: 1
+	Query: "Plectrypops retrospinis mappable:1" ; Times: 1
+	Query: "Actinopterygii rio la silla" ; Times: 4
+	Query: "specificepithet:ruscarius genus:prionotus hastissue:1" ; Times: 1
+	Query: "Dysalotus alcocki" ; Times: 1
+	Query: "genus:Bodianus continent:America" ; Times: 1
+	Query: "Serrivomer jesperseni mappable:1" ; Times: 1
+	Query: "specificepithet:xenisma genus:bellator" ; Times: 1
+	Query: "Jordania zonope mappable:1" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34; year &gt;= 1800 year &lt;= 1990" ; Times: 1
+	Query: "Sebastes paucispinis mappable:1" ; Times: 1
+	Query: "Aspidophoroides monopterygius mappable:1" ; Times: 1
+	Query: "Clupea pallasii pallasii mappable:1" ; Times: 1
+	Query: "Auxis thazard thazard mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1073 download events in this period)
+Total number of records downloaded: 776
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 6
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:CHIERCHIAE genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "family:(Geotriidae OR Mordaciidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "Actinopterygii México Nuevo León Río la Silla" ; Times: 1
+	Query: "specificepithet:PULCHER genus:SEMICOSSYPHUS continent:AMERICA" ; Times: 1
+	Query: "pelecanoides" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "tuvalu" ; Times: 1
+	Query: "specificepithet:DIPLOTAENIA genus:BODIANUS continent:AMERICA" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "ellice islands" ; Times: 1
+	Query: "specificepithet:NICHOLSI genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "specificepithet:NOTOSPILUS genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "Blue Cavern" ; Times: 1
+	Query: "huatulco" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "family:(Geotriidae OR Hexanchidae OR Chlamydoselachidae) mappable:1" ; Times: 2
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+
+
+End of report.

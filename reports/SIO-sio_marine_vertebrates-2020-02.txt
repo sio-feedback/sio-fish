@@ -1,0 +1,276 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 214
+Number of records retrieved in searches: 4398
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 92
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: South Africa ; Times: 12
+	Country: Mexico ; Times: 30
+	Country: France ; Times: 45
+	Country: United Kingdom ; Times: 1
+	Country: Japan ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 28
+	Date: 2020-02-24 ; Times: 4
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 2
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-05 ; Times: 28
+	Date: 2020-02-08 ; Times: 4
+	Date: 2020-02-28 ; Times: 9
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-10 ; Times: 10
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-12 ; Times: 2
+	Date: 2020-02-15 ; Times: 8
+	Date: 2020-02-14 ; Times: 9
+	Date: 2020-02-17 ; Times: 12
+	Date: 2020-02-16 ; Times: 2
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 10
+	Date: 2020-02-02 ; Times: 34
+	Date: 2020-02-03 ; Times: 27
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "scientificname:(Gila elegans) country:United States mappable:1" ; Times: 1
+	Query: "family:Apogonidae institutioncode:SIO" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Ateleopodidae" ; Times: 1
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "Hephthocara" ; Times: 1
+	Query: "Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:bahia de banderas" ; Times: 3
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "Corvula batabana mappable:1" ; Times: 1
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Haemulon melanurum mappable:1" ; Times: 1
+	Query: "Eucinostomus havana mappable:1" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "Sladenia" ; Times: 2
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "bussingi" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Mexico&#34; distance(location,geopoint(25.575497051470705,-100.6000934796993))&lt;100000" ; Times: 1
+	Query: "monognathus rosenblatti" ; Times: 1
+	Query: "Anchoa cayorum mappable:1" ; Times: 1
+	Query: "vntype:specimen bahía de banderas actinopterygii" ; Times: 1
+	Query: "ilyophis arx" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Pseudupeneus maculatus mappable:1" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Araiophos" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Chiapas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "Melanostigma gelatinosum" ; Times: 1
+	Query: "Gymnoscopelus hintonoides" ; Times: 1
+	Query: "scientificname:(Hybognathus hankinsoni) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Catostomus platyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "institutioncode:SIO Dalatidae" ; Times: 1
+	Query: "Liparis fucensis" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "SIO AND LEPADICHTHYS" ; Times: 1
+	Query: "Scolopax dolicholophia" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Equetus punctatus mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "class:actinopterygii locality:bahía de banderas" ; Times: 12
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "Cottus gobio" ; Times: 1
+	Query: "Chaunax coloratus" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "SIO and lepadichthys" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "gbifdatasetid:e1a01804-881b-42ae-8f97-1e80f697fd56" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "neoopisthopterus tropicus" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 2
+	Query: "Phosichthys" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus hydrophlox) country:United States mappable:1" ; Times: 1
+	Query: "Thunnus albacares mappable:1" ; Times: 1
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Thunnus alalunga mappable:1" ; Times: 1
+	Query: "scientificname:Mullus surmuletus mappable:1" ; Times: 1
+	Query: "Calamopteryx" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "hetereleotris" ; Times: 1
+	Query: "Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "stegostoma" ; Times: 1
+	Query: "Istiophorus platypterus mappable:1" ; Times: 1
+	Query: "Cataetyx" ; Times: 3
+	Query: "Gymnoscopelus microlampas" ; Times: 1
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "order:Myxiniformes stateprovince:&#34;Florida&#34; institutioncode:SIO" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Hintonia candens" ; Times: 1
+	Query: "locality:reading stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Parupeneus cyclostomus mappable:1" ; Times: 1
+	Query: "Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Gasterosteus aculeatus williamsoni" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "cetorhinus" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "catalognumber:06-276 institutioncode:SIO" ; Times: 1
+	Query: "scientificname:Parupeneus multifasciatus mappable:1" ; Times: 2
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "scientificname:(Gila atraria) country:United States mappable:1" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "Makaira nigricans  mappable:1" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "scientificname:Mulloidichthys dentatus mappable:1" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; institutioncode:SIO" ; Times: 1
+	Query: "scientificname:Mulloidichthys vanicolensis mappable:1" ; Times: 2
+	Query: "scientificname:(Noturus nocturnus) country:United States mappable:1" ; Times: 1
+	Query: "Crystallichthys cyclospilus" ; Times: 2
+	Query: "order:Myxiniformes stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 3
+	Query: "Urobatis jamaicensis mappable:1" ; Times: 1
+	Query: "Araiophos eastropas" ; Times: 1
+	Query: "institutioncode:SIO" ; Times: 7
+	Query: "cheeseman" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Pseudupeneus maculatus mappable:1" ; Times: 2
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "scientificname:Pseudupeneus grandisquamis mappable:1" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "Stellifer colonensis mappable:1" ; Times: 1
+	Query: "megachasma" ; Times: 1
+	Query: "bahia de banderas" ; Times: 1
+	Query: "molidae" ; Times: 3
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "Thunnus obesus mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon striatum mappable:1" ; Times: 1
+	Query: "Grammonus" ; Times: 2
+	Query: "Microdesmus" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "scientificname:Parupeneus rubescens mappable:1" ; Times: 2
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "scientificname:(Richardsonius balteatus) country:United States mappable:1" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "Myxine ios" ; Times: 2
+	Query: "scientificname:Mulloidichthys flavolineatus mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:bahía de banderas" ; Times: 3
+	Query: "Malacoctenus tetranemus" ; Times: 1
+	Query: "class:Actinopterygii locality:bahía de banderas year &lt;= 2019" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+	Query: "family:Apogonidae country:&#34;MExico&#34; institutioncode:SIO" ; Times: 1
+	Query: "locality:bahia de banderas" ; Times: 2
+	Query: "Xiphias gladius mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis  mappable:1" ; Times: 1
+	Query: "Actinopterygii bahía de banderas" ; Times: 2
+	Query: "scientificname:(Gila nigrescens) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma atomarium mappable:1" ; Times: 1
+	Query: "Argyripnus ephippiatus" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1023 download events in this period)
+Total number of records downloaded: 1491
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Romania ; Times: 1
+	Country: South Africa ; Times: 18
+	Country: El Salvador ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-04 ; Times: 9
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+	Date: 2020-02-19 ; Times: 5
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-28 ; Times: 1
+	Date: 2020-02-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Lampadena notialis" ; Times: 1
+	Query: "Metelectrona ventralis" ; Times: 1
+	Query: "Gymnoscopelus hintonoides" ; Times: 1
+	Query: "Gymnoscopelus fraseri" ; Times: 1
+	Query: "Lepidophanes guentheri" ; Times: 1
+	Query: "Gymnoscopelus bolini" ; Times: 1
+	Query: "Hintonia candens" ; Times: 1
+	Query: "Arequipa" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Gymnoscopelus piabilis" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "class:actinopterygii locality:bahía de banderas" ; Times: 1
+	Query: "Notolychnus valdiviae" ; Times: 1
+	Query: "Lobianchia dofleini" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Gymnoscopelus microlampas" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34; OR &#34;Brasil&#34;" ; Times: 1
+	Query: "Gymnoscopelus nicholsi" ; Times: 1
+	Query: "Gymnoscopelus opisthopterus" ; Times: 1
+	Query: "Gymnoscopelus braueri" ; Times: 1
+	Query: "Malacoctenus tetranemus" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "el salvador" ; Times: 1
+	Query: "specificepithet:exquisitus genus:cirrhilabrus" ; Times: 1
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "Lampichthys procerus" ; Times: 1
+	Query: "Krefftichthys anderssoni" ; Times: 1
+	Query: "Lampadena speculigera" ; Times: 1
+	Query: "Hygophum hanseni" ; Times: 1
+
+
+End of report.

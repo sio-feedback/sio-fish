@@ -1,0 +1,182 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 2679
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 133
+	Country: Japan ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 22
+	Date: 2020-05-27 ; Times: 9
+	Date: 2020-05-26 ; Times: 15
+	Date: 2020-05-12 ; Times: 6
+	Date: 2020-05-30 ; Times: 13
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-22 ; Times: 2
+	Date: 2020-05-29 ; Times: 19
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 29
+	Date: 2020-05-05 ; Times: 1
+	Date: 2020-05-13 ; Times: 2
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-02 ; Times: 6
+	Date: 2020-05-01 ; Times: 4
+	Date: 2020-05-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "halosaurus ovenii" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "Lepophidium microlepis" ; Times: 1
+	Query: "crenichthys nevadae" ; Times: 1
+	Query: "chirophryne xenolophus" ; Times: 1
+	Query: "eckloniaichthys scylliorhiniceps" ; Times: 1
+	Query: "ebosia bleekeri" ; Times: 1
+	Query: "Gymnothorax phalarus" ; Times: 1
+	Query: "Solenostomus" ; Times: 1
+	Query: "Balistes polylepis mappable:1" ; Times: 1
+	Query: "holcomycteronus digittatus" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Argentina&#34;" ; Times: 1
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "Uropterygius versutus" ; Times: 3
+	Query: "evermannella indica" ; Times: 1
+	Query: "Muraena clepsydra" ; Times: 2
+	Query: "Enchelycore lichenosa" ; Times: 1
+	Query: "Uropterygius supraforatus" ; Times: 1
+	Query: "inegocia japonica" ; Times: 1
+	Query: "halimochirurgus centriscoides" ; Times: 1
+	Query: "specificepithet:erosa genus:erosa" ; Times: 1
+	Query: "Echidna nocturna" ; Times: 1
+	Query: "Balistes vetula mappable:1" ; Times: 1
+	Query: "florenciella lugubris" ; Times: 1
+	Query: "Rhinecanthus rectangulus mappable:1" ; Times: 1
+	Query: "institutioncode:SIO" ; Times: 12
+	Query: "foetorepus calauropomus" ; Times: 1
+	Query: "genus:Gila stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "Gymnothorax castaneus" ; Times: 1
+	Query: "halidesmus scapularis" ; Times: 2
+	Query: "Xanthichthys mento mappable:1" ; Times: 1
+	Query: "Xanthichthys lineopunctatus mappable:1" ; Times: 2
+	Query: "iso flosmaris" ; Times: 1
+	Query: "Scuticaria tigrina" ; Times: 2
+	Query: "evermannia zosterura" ; Times: 1
+	Query: "Gymnothorax eurygnathos" ; Times: 1
+	Query: "histiodraco velifer" ; Times: 1
+	Query: "evermannella balbo" ; Times: 1
+	Query: "Balistoides viridescens mappable:1" ; Times: 1
+	Query: "Gymnothorax meleagris" ; Times: 1
+	Query: "Gymnomuraena zebra" ; Times: 1
+	Query: "Cyema atrum" ; Times: 1
+	Query: "Uropterygius macrocephalus" ; Times: 2
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "Enchelynassa canina" ; Times: 2
+	Query: "Uropterygius polystictus" ; Times: 1
+	Query: "Gymnothorax angusticeps" ; Times: 1
+	Query: "iracundus signifer" ; Times: 1
+	Query: "Balistapus undulatus mappable:1" ; Times: 1
+	Query: "gyrinomimus myersi" ; Times: 1
+	Query: "Bathysphyraenops simplex" ; Times: 3
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "lepidocybium" ; Times: 3
+	Query: "guavina guavina" ; Times: 1
+	Query: "eumegistus illustris" ; Times: 1
+	Query: "crystallodytes cookei" ; Times: 1
+	Query: "Melamphaes suborbitalis" ; Times: 5
+	Query: "Gymnothorax verrilli" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "hippoglossina macrops" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "heraldia nocturna" ; Times: 1
+	Query: "dolopichthys allector" ; Times: 1
+	Query: "dactylopus dactylopus" ; Times: 1
+	Query: "genus:Eucinostomus institutioncode:SIO" ; Times: 2
+	Query: "gymnothorax porphyreus" ; Times: 2
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 1
+	Query: "denticeps clupeoides" ; Times: 1
+	Query: "Abalistes stellaris mappable:1" ; Times: 6
+	Query: "favonigobius lateralis" ; Times: 1
+	Query: "clidoderma asperrimum" ; Times: 2
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "erosa erosa" ; Times: 1
+	Query: "haliichthys taeniophorus" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "echiichthys vipera" ; Times: 1
+	Query: "hime japonica" ; Times: 1
+	Query: "genypterus chilensis" ; Times: 1
+	Query: "jenkinsia stolifera" ; Times: 1
+	Query: "corvula batabana" ; Times: 1
+	Query: "Gymnothorax australicola" ; Times: 1
+	Query: "euristhmus lepturus" ; Times: 1
+	Query: "Gymnothorax mordax" ; Times: 1
+	Query: "collichthys lucidus" ; Times: 1
+	Query: "Gymnothorax dovii" ; Times: 1
+	Query: "isacia conceptionis" ; Times: 1
+	Query: "hoplosebastes armatus" ; Times: 1
+	Query: "coregonus lavaretus" ; Times: 1
+	Query: "Gymnothorax equatorialis" ; Times: 2
+	Query: "&#34;very heavy&#34; egg" ; Times: 1
+	Query: "gymnothorax mordax" ; Times: 2
+	Query: "crossosalarias macrospilus" ; Times: 1
+	Query: "Melichthys niger mappable:1" ; Times: 1
+	Query: "clarkichthys bilineatus" ; Times: 2
+	Query: "Hyporhamphus gilli" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "muraena argus" ; Times: 1
+	Query: "cubiceps paradoxus" ; Times: 1
+	Query: "emmelichthys nitidus" ; Times: 2
+	Query: "echelus myrus" ; Times: 2
+	Query: "Pseudobalistes naufragium mappable:1" ; Times: 1
+	Query: "graus nigra" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1106 download events in this period)
+Total number of records downloaded: 246
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Jackson Oregon" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catostomus" ; Times: 1
+
+
+End of report.

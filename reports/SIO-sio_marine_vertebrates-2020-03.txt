@@ -1,0 +1,168 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 112
+Number of records retrieved in searches: 2539
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: South Africa ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 12
+	Country: United States ; Times: 77
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-31 ; Times: 16
+	Date: 2020-03-02 ; Times: 6
+	Date: 2020-03-23 ; Times: 23
+	Date: 2020-03-10 ; Times: 18
+	Date: 2020-03-18 ; Times: 7
+	Date: 2020-03-19 ; Times: 11
+	Date: 2020-03-16 ; Times: 3
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 5
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-03 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Nicholsina denticulata mappable:1" ; Times: 1
+	Query: "norfolkia brachylepis" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "Bedotia madagascariensis mappable:1" ; Times: 1
+	Query: "Sparisoma atomarium mappable:1" ; Times: 1
+	Query: "Monognathus" ; Times: 1
+	Query: "Squalus mitsukurii" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "Symbolophorus boops" ; Times: 1
+	Query: "Thunnus alalunga" ; Times: 1
+	Query: "Los Cabos" ; Times: 4
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Atherinomorus lacunosus mappable:1" ; Times: 2
+	Query: "Scarus taeniopterus mappable:1" ; Times: 1
+	Query: "Protomyctophum normani" ; Times: 2
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "Calotomus spinidens mappable:1" ; Times: 3
+	Query: "Diaphus gigas" ; Times: 1
+	Query: "Rheocles alaotrensis mappable:1" ; Times: 1
+	Query: "Protomyctophum gemmatum" ; Times: 1
+	Query: "anguilla marmorata" ; Times: 1
+	Query: "Scarus guacamaia mappable:1" ; Times: 1
+	Query: "&#34;Candelaria&#34;" ; Times: 1
+	Query: "&#34;Mandinga&#34;" ; Times: 1
+	Query: "Scarus ghobban mappable:1" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Hypoatherina barnesi mappable:1" ; Times: 4
+	Query: "&#34;Jaqué&#34;" ; Times: 1
+	Query: "Sarda chiliensis" ; Times: 1
+	Query: "Urocampus" ; Times: 1
+	Query: "guadalupe Wilson" ; Times: 1
+	Query: "(216301)" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "Bedotia longianalis mappable:1" ; Times: 1
+	Query: "kelp crab" ; Times: 1
+	Query: "genus:gasterosteus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "Calotomus carolinus mappable:1" ; Times: 3
+	Query: "cyprinodon diabolis" ; Times: 14
+	Query: "specificepithet:macrocephalus genus:Uropterygius institutioncode:SIO" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "hippocampus reidi" ; Times: 1
+	Query: "Coryphaena equiselis" ; Times: 1
+	Query: "gbifdatasetid:e1a01804-881b-42ae-8f97-1e80f697fd56" ; Times: 1
+	Query: "thunnus obesus" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "Auxis rochei" ; Times: 1
+	Query: "specificepithet:diabolis" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "SIO 59-150" ; Times: 2
+	Query: "Scarus compressus mappable:1" ; Times: 1
+	Query: "Scarus vetula mappable:1" ; Times: 1
+	Query: "Carcharhinus altimus" ; Times: 1
+	Query: "Notocheirus hubbsi mappable:1" ; Times: 2
+	Query: "chondrostoma" ; Times: 1
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Bedotia" ; Times: 1
+	Query: "genus:Alepisaurus hastissue:1" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "Protomyctophum subparallelum" ; Times: 1
+	Query: "singapore vertebrate" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "guadalupe mexico wilson" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "Echinorhinus brucus" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "institutioncode:SIO" ; Times: 9
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "baxteri" ; Times: 1
+	Query: "Scarus perrico mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 853 download events in this period)
+Total number of records downloaded: 639
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: South Africa ; Times: 16
+	Country: Singapore ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-30 ; Times: 2
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-14 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-12 ; Times: 7
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-11 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Scopelopsis multipunctatus" ; Times: 1
+	Query: "Taaningichthys bathyphilus" ; Times: 2
+	Query: "Protomyctophum bolini" ; Times: 1
+	Query: "Protomyctophum gemmatum" ; Times: 1
+	Query: "Protomyctophum subparallelum" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 1
+	Query: "Protomyctophum normani" ; Times: 2
+	Query: "Electrona antarctica" ; Times: 2
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Protomyctophum andriashevi" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "SIO 59-150" ; Times: 2
+	Query: "Protomyctophum parallelum" ; Times: 1
+	Query: "Protomyctophum tenisoni" ; Times: 2
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Symbolophorus boops" ; Times: 1
+	Query: "specificepithet:antarctica genus:Electrona" ; Times: 1
+
+
+End of report.

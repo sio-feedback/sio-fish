@@ -1,0 +1,261 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 772
+Number of records retrieved in searches: 9412
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 116
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 634
+	Country: Peru ; Times: 12
+	Country: Japan ; Times: 2
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 2
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-09 ; Times: 66
+	Date: 2020-06-06 ; Times: 9
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 15
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 10
+	Date: 2020-06-03 ; Times: 15
+	Date: 2020-06-01 ; Times: 2
+	Date: 2020-06-15 ; Times: 86
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-10 ; Times: 245
+	Date: 2020-06-11 ; Times: 240
+	Date: 2020-06-17 ; Times: 68
+
+List of queries that retrieved data from the resource: 
+	Query: "Ambassis miops" ; Times: 6
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Hirundichthys oxycephalus" ; Times: 6
+	Query: "spicara flexuosa" ; Times: 1
+	Query: "genus:Ctenogobius institutioncode:SIO" ; Times: 2
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "paraplotosus albilabris" ; Times: 1
+	Query: "muraenichthys gymnopterus" ; Times: 1
+	Query: "notomyxine tridentiger" ; Times: 1
+	Query: "Exocoetus volitans" ; Times: 6
+	Query: "neoceratias spinifer" ; Times: 1
+	Query: "Sabanejewia larvata" ; Times: 1
+	Query: "neocyttus rhomboidalis" ; Times: 1
+	Query: "pataecus fronto" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "Pareiodon microps" ; Times: 1
+	Query: "ogilbichthys longimanus" ; Times: 1
+	Query: "Pliosteostoma lutipinnis" ; Times: 1
+	Query: "scuticaria tigrina" ; Times: 1
+	Query: "paranthias furcifer" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "Cottocomephorus inermis" ; Times: 6
+	Query: "Cheilopogon suttoni" ; Times: 6
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Chirocentrodon bleekerianus" ; Times: 2
+	Query: "Cheilopogon spilonotopterus" ; Times: 6
+	Query: "Decapterus macrosoma" ; Times: 12
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "snyderidia canina" ; Times: 1
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "searsioides multispinus" ; Times: 1
+	Query: "Abramis brama" ; Times: 6
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scartelaos histophorus" ; Times: 1
+	Query: "paraletharchus pacificus" ; Times: 1
+	Query: "phycodurus eques" ; Times: 1
+	Query: "metelectrona ahlstromi" ; Times: 1
+	Query: "onigocia macrolepis" ; Times: 1
+	Query: "rhombosolea tapirina" ; Times: 2
+	Query: "microphotolepis schmidti" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "notolepis coatsi" ; Times: 1
+	Query: "Odontamblyopus rubicundus" ; Times: 6
+	Query: "Decapterus kurroides" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "panna microdon" ; Times: 1
+	Query: "Takifugu chinensis" ; Times: 6
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "lestidiops sphyraenopsis" ; Times: 1
+	Query: "lampetra planeri" ; Times: 1
+	Query: "selenotoca multifasciata" ; Times: 1
+	Query: "leptochilichthys agassizii" ; Times: 1
+	Query: "macruronus novaezelandiae" ; Times: 1
+	Query: "Gobiopterus lacustris" ; Times: 9
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "Ictalurus pricei" ; Times: 6
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "microdesmus dipus" ; Times: 1
+	Query: "Cynoglossus trigrammus" ; Times: 3
+	Query: "Thryssa dussumieri" ; Times: 6
+	Query: "odontostomias micropogon" ; Times: 1
+	Query: "Cypselurus poecilopterus" ; Times: 6
+	Query: "Archocentrus nigrofasciatus" ; Times: 1
+	Query: "MCZ 14844" ; Times: 1
+	Query: "Dormitator latifrons" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "meuschenia trachylepis" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "persparsia kopua" ; Times: 1
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "parona signata" ; Times: 1
+	Query: "lesueurina platycephala" ; Times: 1
+	Query: "Channa striata" ; Times: 12
+	Query: "pareiodon microps" ; Times: 1
+	Query: "vntype:specimen (batrachoididae) hastissue:1" ; Times: 1
+	Query: "Cypselurus naresii" ; Times: 6
+	Query: "leucicorus lusciosus" ; Times: 1
+	Query: "macolor niger" ; Times: 1
+	Query: "Photopectoralis bindus" ; Times: 6
+	Query: "Decapterus akaadsi" ; Times: 6
+	Query: "neomyxine biniplicata" ; Times: 1
+	Query: "microlophichthys microlophus" ; Times: 1
+	Query: "sicyases sanguineus" ; Times: 1
+	Query: "Gobioides peruanus" ; Times: 1
+	Query: "pseudalutarius nasicornis" ; Times: 1
+	Query: "Prognichthys sealei" ; Times: 6
+	Query: "lampanyctodes hectoris" ; Times: 1
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "prionodraco evansii" ; Times: 6
+	Query: "Takifugu xanthopterus" ; Times: 6
+	Query: "Decapterus muroadsi" ; Times: 6
+	Query: "kraemeria samoensis" ; Times: 1
+	Query: "Gobiomorus maculatus" ; Times: 2
+	Query: "percophis brasiliensis" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Pterothrissus belloci" ; Times: 1
+	Query: "rhinochimaera pacifica" ; Times: 1
+	Query: "Scomberomorus commerson" ; Times: 9
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Trinectes fluviatilis" ; Times: 1
+	Query: "specificepithet:mollis stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "raja miraletus" ; Times: 2
+	Query: "Ambassis gymnocephalus" ; Times: 6
+	Query: "parrella maxillaris" ; Times: 1
+	Query: "Lile stolifera" ; Times: 1
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Cypselurus opisthopus" ; Times: 6
+	Query: "Hintonia candens" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "phosichthys argenteus" ; Times: 1
+	Query: "snyderina yamanokami" ; Times: 1
+	Query: "Takifugu vermicularis" ; Times: 6
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "penetopteryx taeniocephalus" ; Times: 1
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "papilloculiceps longiceps" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "Indostomus paradoxus" ; Times: 6
+	Query: "Neoopisthopterus tropicus" ; Times: 1
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "Takifugu rubripes" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "Eleotris picta" ; Times: 2
+	Query: "Sillago sihama" ; Times: 6
+	Query: "odontamblyopus rubicundus" ; Times: 1
+	Query: "schismorhynchus labialis" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "Cheilopogon arcticeps" ; Times: 6
+	Query: "lepidorhynchus denticulatus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "scytalichthys miurus" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "pelotretis flavilatus" ; Times: 1
+	Query: "rosenblattia robusta" ; Times: 2
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "niphon spinosus" ; Times: 3
+	Query: "oblada melanura" ; Times: 1
+	Query: "Comephorus dybowskii" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "mustelus manazo" ; Times: 2
+	Query: "luciosudis normani" ; Times: 1
+	Query: "Zoarces elongatus" ; Times: 6
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "lycodes vahlii" ; Times: 1
+	Query: "Pisodonophis boro" ; Times: 6
+	Query: "gymnothorax phalarus" ; Times: 1
+	Query: "notocheirus hubbsi" ; Times: 1
+	Query: "pentherichthys atratus" ; Times: 2
+	Query: "Cheilopogon heterurus" ; Times: 6
+	Query: "pseudomyrophis micropinna" ; Times: 2
+	Query: "Cheilopogon pinnatibarbatus" ; Times: 6
+	Query: "phucocoetes latitans" ; Times: 2
+	Query: "signigobius biocellatus" ; Times: 1
+	Query: "Atule mate" ; Times: 6
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "Scomberomorus concolor" ; Times: 6
+	Query: "Takifugu alboplumbeus" ; Times: 6
+	Query: "Cypselurus angusticeps" ; Times: 6
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Ramnogaster arcuata" ; Times: 1
+	Query: "Encrasicholina heteroloba" ; Times: 9
+	Query: "Butis butis" ; Times: 6
+	Query: "Omobranchus punctatus" ; Times: 1
+	Query: "Cottus asper" ; Times: 6
+	Query: "lepidozygus tapeinosoma" ; Times: 1
+	Query: "specificepithet:stellifer genus:stellifer" ; Times: 2
+	Query: "family:batrachoididae hastissue:1" ; Times: 3
+	Query: "gymnothorax mordax" ; Times: 1
+	Query: "Hypophthalmichthys molitrix" ; Times: 12
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "rhynchorhamphus georgii" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "sebastes mentella" ; Times: 3
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "petrotyx hopkinsi" ; Times: 1
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "Cheilopogon atrisignis" ; Times: 6
+	Query: "Apionichthys dumerili" ; Times: 2
+	Query: "Dermogenys siamensis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 474 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "sebastes mentella" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+
+
+End of report.

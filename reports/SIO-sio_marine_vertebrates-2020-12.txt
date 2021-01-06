@@ -1,0 +1,560 @@
+Report for Institution Code SIO, Resource sio_marine_vertebrates
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 647
+Number of records retrieved in searches: 11926
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 154
+	Country: Australia ; Times: 8
+	Country: Italy ; Times: 1
+	Country: Denmark ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 365
+	Country: United Kingdom ; Times: 90
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Russia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 82
+	Date: 2020-12-09 ; Times: 50
+	Date: 2020-12-08 ; Times: 108
+	Date: 2020-12-07 ; Times: 8
+	Date: 2020-12-04 ; Times: 59
+	Date: 2020-12-03 ; Times: 57
+	Date: 2020-12-02 ; Times: 58
+	Date: 2020-12-01 ; Times: 104
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 12
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-19 ; Times: 2
+	Date: 2020-12-10 ; Times: 3
+	Date: 2020-12-11 ; Times: 3
+	Date: 2020-12-13 ; Times: 3
+	Date: 2020-12-14 ; Times: 67
+	Date: 2020-12-15 ; Times: 4
+	Date: 2020-12-16 ; Times: 3
+	Date: 2020-12-17 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "amphiprion ocellaris" ; Times: 1
+	Query: "scientificname:Plotosus lineatus" ; Times: 1
+	Query: "specificepithet:flavidus genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Callionymus lyra" ; Times: 2
+	Query: "specificepithet:zacentrus genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 6
+	Query: "scientificname:Carcharhinus limbatus" ; Times: 1
+	Query: "scientificname:Rastrelliger kanagurta" ; Times: 1
+	Query: "scientificname:Cyclopterus lumpus" ; Times: 1
+	Query: "Taenianotus triacanthus Indian" ; Times: 1
+	Query: "Clinitrachus argentatus" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "scientificname:Cubiceps capensis" ; Times: 1
+	Query: "Gymnothorax margaritophorus Indian" ; Times: 1
+	Query: "specificepithet:diaconus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:alascanus genus:Sebastolobus distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "genus:Cyprinus stateprovince:&#34;California&#34; distance(location,geopoint(33.0469893386487,-117.10455394041524))&lt;100000" ; Times: 1
+	Query: "Callionymus pusillus" ; Times: 1
+	Query: "scientificname:Paralepis coregonoides" ; Times: 1
+	Query: "scientificname:Symphodus melops" ; Times: 2
+	Query: "genus:Aulorhynchus distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "scientificname:Zenopsis conchifer" ; Times: 1
+	Query: "specificepithet:atropurpureus genus:Xiphister stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "scientificname:Diaphus holti" ; Times: 1
+	Query: "invasive species" ; Times: 4
+	Query: "Synagrops japonicus" ; Times: 1
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "scientificname:Muraena helena" ; Times: 2
+	Query: "scientificname:Nerophis maculatus" ; Times: 1
+	Query: "genus:Melanostigma stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;56139" ; Times: 1
+	Query: "scientificname:Ichthyococcus ovatus" ; Times: 1
+	Query: "specificepithet:aurora genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Benthosema glaciale" ; Times: 2
+	Query: "Nerophis maculatus" ; Times: 1
+	Query: "specificepithet:alalunga genus:Thunnus stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;100000" ; Times: 1
+	Query: "scientificname:Echelus myrus" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "scientificname:Terapon theraps" ; Times: 1
+	Query: "Lavinia exilicauda" ; Times: 3
+	Query: "Epinephelus drummondhayi" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Merluccius productus" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "Engraulis japonicus" ; Times: 1
+	Query: "scientificname:Galeocerdo cuvier" ; Times: 1
+	Query: "scientificname:Electrona risso" ; Times: 1
+	Query: "specificepithet:osteochir genus:Remora distance(location,geopoint(33.000813059511984,-117.3000002575454))&lt;100000" ; Times: 1
+	Query: "scientificname:Naucrates ductor" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Siganus unimaculatus" ; Times: 1
+	Query: "scientificname:Parablennius gattorugine" ; Times: 2
+	Query: "scientificname:Lagocephalus spadiceus" ; Times: 1
+	Query: "Merluccius gayi" ; Times: 1
+	Query: "Epinephelus lanceolatus" ; Times: 1
+	Query: "specificepithet:aculeatus genus:Gasterosteus distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;100000" ; Times: 2
+	Query: "Zenopsis conchifer" ; Times: 1
+	Query: "Epinephelus polyphekadion" ; Times: 1
+	Query: "scientificname:Chlopsis bicolor" ; Times: 1
+	Query: "scientificname:Lichia amia" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "Epinephelus malabaricus" ; Times: 1
+	Query: "scientificname:Echinorhinus brucus" ; Times: 1
+	Query: "scientificname:Sphyrna lewini" ; Times: 1
+	Query: "scientificname:Iniistius pavo" ; Times: 2
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 6
+	Query: "scientificname:Xyrichtys novacula" ; Times: 1
+	Query: "genus:Phtheirichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Vinciguerria poweriae" ; Times: 2
+	Query: "Gnathonemus petersii" ; Times: 1
+	Query: "scientificname:Cheilopogon heterurus" ; Times: 1
+	Query: "genus:Heteropriacanthus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:pauciradiatus stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;56139" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 2
+	Query: "Pelteobagrus vachellii" ; Times: 2
+	Query: "institutioncode:SIO" ; Times: 10
+	Query: "scientificname:Micromesistius poutassou" ; Times: 2
+	Query: "genus:Diplectrum stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "scientificname:Lophius piscatorius" ; Times: 2
+	Query: "specificepithet:filifer stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Xanthichthys distance(location,geopoint(33.003933706518,-117.4365234375))&lt;491591" ; Times: 1
+	Query: "scientificname:Chaunax pictus" ; Times: 1
+	Query: "scientificname:Lobotes surinamensis" ; Times: 1
+	Query: "scientificname:Melanogrammus aeglefinus" ; Times: 1
+	Query: "scientificname:Epinephelus marginatus" ; Times: 2
+	Query: "scientificname:Clinitrachus argentatus" ; Times: 1
+	Query: "Osmerus eperlanus" ; Times: 1
+	Query: "specificepithet:proriger genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Thunnus obesus" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "scientificname:Lobianchia dofleini" ; Times: 2
+	Query: "scientificname:Aluterus monoceros" ; Times: 1
+	Query: "Clepticus parrae" ; Times: 1
+	Query: "scientificname:Arnoglossus laterna" ; Times: 2
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "Parupeneus rubescens" ; Times: 1
+	Query: "scientificname:Aphanius fasciatus" ; Times: 1
+	Query: "scientificname:Coryphoblennius galerita" ; Times: 1
+	Query: "Anchoa delicatissima" ; Times: 1
+	Query: "genus:Bathyagonus distance(location,geopoint(33.000813059511984,-117.3000002575454))&lt;100000" ; Times: 1
+	Query: "scientificname:Remora remora" ; Times: 2
+	Query: "scientificname:Tetrapturus albidus" ; Times: 1
+	Query: "genus:Cephalopholis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Katsuwonus pelamis" ; Times: 1
+	Query: "scientificname:Ophisurus serpens" ; Times: 1
+	Query: "scientificname:Carcharhinus melanopterus" ; Times: 1
+	Query: "specificepithet:megastomus genus:Congriscus" ; Times: 1
+	Query: "sphoeroides pachygaster Indian" ; Times: 1
+	Query: "scientificname:Lampris guttatus" ; Times: 1
+	Query: "Syngnathus acus" ; Times: 1
+	Query: "Goeldiella eques" ; Times: 1
+	Query: "genus:Embassichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Lipophrys pholis" ; Times: 1
+	Query: "scientificname:Pomatomus saltatrix" ; Times: 1
+	Query: "Syngnathus typhle" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "scientificname:Kyphosus sectatrix" ; Times: 1
+	Query: "specificepithet:paucispinis genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "specificepithet:ovalis genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "specificepithet:mystes genus:Scorpaena stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "scientificname:Echiichthys vipera" ; Times: 2
+	Query: "scientificname:Sardina pilchardus" ; Times: 2
+	Query: "Merluccius albidus" ; Times: 1
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "specificepithet:macropus genus:Caristius distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;645738" ; Times: 1
+	Query: "Lagodon rhomboides" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "Auxis thazard" ; Times: 1
+	Query: "scientificname:Fistularia commersonii" ; Times: 1
+	Query: "scientificname:Nezumia aequalis" ; Times: 1
+	Query: "scientificname:Conger conger" ; Times: 6
+	Query: "scientificname:Echeneis naucrates" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "scientificname:Lepadogaster lepadogaster" ; Times: 2
+	Query: "Terapon theraps" ; Times: 1
+	Query: "scientificname:Pollachius pollachius" ; Times: 1
+	Query: "scientificname:Hoplostethus mediterraneus" ; Times: 2
+	Query: "specificepithet:molle genus:Bothrocara stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Citharus linguatula" ; Times: 2
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "Oncorhynchus masou" ; Times: 1
+	Query: "scientificname:Gobius paganellus" ; Times: 1
+	Query: "genus:Oreochromis distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;645738" ; Times: 1
+	Query: "scientificname:Isurus oxyrinchus" ; Times: 1
+	Query: "genus:Ammodytes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Paracaristius distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;645738" ; Times: 2
+	Query: "scientificname:Oblada melanura" ; Times: 2
+	Query: "scientificname:Benthocometes robustus" ; Times: 1
+	Query: "genus:Psychrolutes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:alutus genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Chauliodus barbatus" ; Times: 1
+	Query: "Petroscirtes breviceps indian" ; Times: 1
+	Query: "scientificname:Carcharhinus altimus" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 4
+	Query: "scientificname:Thunnus alalunga" ; Times: 1
+	Query: "specificepithet:rosenblatti genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Cheilopogon furcatus" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Gonichthys cocco" ; Times: 1
+	Query: "scientificname:Carcharhinus obscurus" ; Times: 1
+	Query: "genus:Phytichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Hygophum benoiti" ; Times: 1
+	Query: "Xiphasia matsubarai" ; Times: 1
+	Query: "scientificname:Valenciennellus tripunctulatus" ; Times: 2
+	Query: "scientificname:Prionace glauca" ; Times: 1
+	Query: "scientificname:Sardinella aurita" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "Symphysodon aequifasciata" ; Times: 1
+	Query: "scientificname:Limanda limanda" ; Times: 2
+	Query: "scientificname:Hemiramphus far" ; Times: 1
+	Query: "scientificname:Saurida undosquamis" ; Times: 1
+	Query: "genus:Stellerina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 1
+	Query: "specificepithet:eydouxii genus:Diodon" ; Times: 2
+	Query: "scientificname:Phycis phycis" ; Times: 1
+	Query: "genus:Bothrocara stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;100000" ; Times: 1
+	Query: "scientificname:Omobranchus punctatus" ; Times: 1
+	Query: "scientificname:Lampanyctus pusillus" ; Times: 2
+	Query: "scientificname:Aidablennius sphynx" ; Times: 1
+	Query: "specificepithet:currani genus:Eucinostomus distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;645738" ; Times: 1
+	Query: "institutioncode:SIO neoceratias" ; Times: 1
+	Query: "scientificname:Syngnathus typhle" ; Times: 1
+	Query: "scientificname:Arapaima gigas" ; Times: 1
+	Query: "scientificname:Exocoetus obtusirostris" ; Times: 1
+	Query: "specificepithet:dermatolepis genus:Dermatolepis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "genus:Acanthurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Siganus canaliculatus" ; Times: 1
+	Query: "scientificname:Bathophilus nigerrimus" ; Times: 1
+	Query: "scientificname:Thunnus obesus" ; Times: 1
+	Query: "scientificname:Pteroplatytrygon violacea" ; Times: 1
+	Query: "scientificname:Cephalopholis taeniops" ; Times: 1
+	Query: "specificepithet:melanostomus genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Anthias anthias" ; Times: 1
+	Query: "scientificname:Ariosoma balearicum" ; Times: 1
+	Query: "scientificname:Papilloculiceps longiceps" ; Times: 1
+	Query: "Dentex tumifrons" ; Times: 1
+	Query: "specificepithet:brachysomus genus:Calamus distance(location,geopoint(33.000813059511984,-117.3000002575454))&lt;100000" ; Times: 1
+	Query: "scientificname:Ctenolabrus rupestris" ; Times: 2
+	Query: "arapaima" ; Times: 4
+	Query: "scientificname:Alepes djedaba" ; Times: 1
+	Query: "pteroplatytrygon" ; Times: 1
+	Query: "scientificname:Lepidorhombus boscii" ; Times: 2
+	Query: "specificepithet:ornata genus:Pholis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Parargyrops edita" ; Times: 1
+	Query: "scientificname:Sillago sihama" ; Times: 1
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+	Query: "scientificname:Mullus surmuletus" ; Times: 2
+	Query: "Sarda orientalis" ; Times: 1
+	Query: "Siganus vulpinus" ; Times: 1
+	Query: "genus:Bellator stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Scyliorhinus canicula" ; Times: 2
+	Query: "scientificname:Caranx hippos" ; Times: 1
+	Query: "genus:Diplospinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:melanosema genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Exocoetus volitans" ; Times: 2
+	Query: "specificepithet:phrictus genus:Psychrolutes" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;645738" ; Times: 1
+	Query: "scientificname:Scartella cristata" ; Times: 1
+	Query: "Uranoscopus scaber" ; Times: 1
+	Query: "Anchoa hepsetus" ; Times: 1
+	Query: "Plectroglyphidodon lacrymatus" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 3
+	Query: "specificepithet:jordani genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Blennius ocellaris" ; Times: 2
+	Query: "specificepithet:altivelis genus:Sebastolobus distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Sphoeroides pachygaster" ; Times: 1
+	Query: "scientificname:Balistes capriscus" ; Times: 2
+	Query: "scientificname:Lampadena chavesi" ; Times: 1
+	Query: "scientificname:Mustelus asterias" ; Times: 2
+	Query: "scientificname:Labrus merula" ; Times: 2
+	Query: "scientificname:Ranzania laevis" ; Times: 1
+	Query: "Carassius carassius" ; Times: 2
+	Query: "specificepithet:simulator genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Helicolenus dactylopterus" ; Times: 3
+	Query: "locality:manam country:&#34;papua new guinea&#34;" ; Times: 1
+	Query: "specificepithet:grandisquamis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Merlangius merlangus" ; Times: 2
+	Query: "specificepithet:melanops genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:crameri genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "linophryne" ; Times: 1
+	Query: "specificepithet:macdonaldi genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Etrumeus teres" ; Times: 1
+	Query: "specificepithet:orcuttii genus:Gila stateprovince:&#34;California&#34; distance(location,geopoint(33.0469893386487,-117.10455394041524))&lt;100000" ; Times: 1
+	Query: "specificepithet:baxteri genus:Cubiceps" ; Times: 1
+	Query: "specificepithet:cortezianus genus:Lycodes stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;56139" ; Times: 1
+	Query: "scientificname:Gaidropsarus vulgaris" ; Times: 2
+	Query: "Plectrypops lima indian" ; Times: 1
+	Query: "Cromileptes altivelis" ; Times: 1
+	Query: "genus:Diodon distance(location,geopoint(33.003933706518,-117.4365234375))&lt;491591" ; Times: 1
+	Query: "fundulus grandis texas" ; Times: 2
+	Query: "scientificname:Ceratoscopelus maderensis" ; Times: 1
+	Query: "specificepithet:atrovirens genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Spratelloides delicatulus" ; Times: 1
+	Query: "specificepithet:stenolepis genus:Hippoglossus" ; Times: 1
+	Query: "scientificname:Sphyrna mokarran" ; Times: 1
+	Query: "specificepithet:embryum genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Scopelogadus distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Diogenichthys atlanticus" ; Times: 4
+	Query: "Citharoides macrolepidotus" ; Times: 1
+	Query: "scientificname:Chimaera monstrosa" ; Times: 1
+	Query: "Siganus doliatus" ; Times: 1
+	Query: "pristipomoides zonatus" ; Times: 1
+	Query: "scientificname:Cyclothone braueri" ; Times: 2
+	Query: "neoniphon indian" ; Times: 1
+	Query: "specificepithet:purpurescens genus:Anoplarchus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:orcuttii genus:Gila stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Coryphaena equiselis" ; Times: 1
+	Query: "scientificname:Evermannella balbo" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "Abramis brama" ; Times: 2
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "scientificname:Arnoglossus imperialis" ; Times: 2
+	Query: "genus:Astroscopus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Dicentrarchus labrax" ; Times: 2
+	Query: "scientificname:Epinephelus fasciatus" ; Times: 1
+	Query: "specificepithet:phillipsi genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "scientificname:Coris julis" ; Times: 2
+	Query: "specificepithet:diapterus genus:Lycodes stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;56139" ; Times: 1
+	Query: "scientificname:Luvarus imperialis" ; Times: 1
+	Query: "specificepithet:fierasfer genus:Lycodapus stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;45881" ; Times: 1
+	Query: "scientificname:Hexanchus griseus" ; Times: 2
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Epinephelus fuscoguttatus" ; Times: 1
+	Query: "specificepithet:ritteri genus:Xeneretmus distance(location,geopoint(33.000813059511984,-117.3000002575454))&lt;100000" ; Times: 1
+	Query: "Rosati" ; Times: 1
+	Query: "specificepithet:stenolepis genus:Hippoglossus distance(location,geopoint(33.003933706518,-117.4365234375))&lt;491591" ; Times: 1
+	Query: "scientificname:Scophthalmus rhombus" ; Times: 2
+	Query: "Amphilophus citrinellus" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 1
+	Query: "etelis indian" ; Times: 1
+	Query: "scientificname:Spicara smaris" ; Times: 1
+	Query: "scientificname:Molva molva" ; Times: 1
+	Query: "scientificname:Petromyzon marinus" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "Mastacembelus erythrotaenia" ; Times: 1
+	Query: "scientificname:Stomias boa" ; Times: 2
+	Query: "specificepithet:globiceps genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "scientificname:Trachinus draco" ; Times: 1
+	Query: "scientificname:Acipenser stellatus" ; Times: 1
+	Query: "scientificname:Nemipterus japonicus" ; Times: 1
+	Query: "specificepithet:coheni genus:Thalassenchelys" ; Times: 1
+	Query: "Cynoscion arenarius" ; Times: 1
+	Query: "scientificname:Serranus scriba" ; Times: 1
+	Query: "scientificname:Scorpaena porcus" ; Times: 1
+	Query: "specificepithet:ellipticum genus:Hyperprosopon stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Spicara flexuosa" ; Times: 1
+	Query: "scientificname:Scomberesox saurus" ; Times: 1
+	Query: "Epinephelus coioides" ; Times: 1
+	Query: "specificepithet:rastrelliger genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "specificepithet:stenolepis genus:Hippoglossus distance(location,geopoint(33.003933706518,-117.4365234375))&lt;415775" ; Times: 1
+	Query: "scientificname:Epinephelus coioides" ; Times: 1
+	Query: "Epinephelus tauvina" ; Times: 1
+	Query: "scientificname:Halosaurus ovenii" ; Times: 2
+	Query: "scientificname:Platax teira" ; Times: 1
+	Query: "specificepithet:caballus genus:Caranx distance(location,geopoint(33.000813059511984,-117.3000002575454))&lt;100000" ; Times: 3
+	Query: "specificepithet:stenolepis genus:Hippoglossus distance(location,geopoint(33.003933706518,-117.4365234375))&lt;370683" ; Times: 1
+	Query: "scientificname:Syngnathus acus" ; Times: 2
+	Query: "Triodon macropterus" ; Times: 1
+	Query: "Thunnus albacares" ; Times: 1
+	Query: "specificepithet:asper genus:Taractes distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;645738" ; Times: 1
+	Query: "specificepithet:gilli genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "Gallus gallus" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 2
+	Query: "bms" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "specificepithet:nebulosus genus:Ameiurus stateprovince:&#34;California&#34; distance(location,geopoint(33.0469893386487,-117.10455394041524))&lt;100000" ; Times: 1
+	Query: "Iracundus signifer Indian" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 2
+	Query: "pomadasys olivaceus" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 1
+	Query: "amblyglyphidodon indian" ; Times: 1
+	Query: "scientificname:Remora osteochir" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 2
+	Query: "scientificname:Ruvettus pretiosus" ; Times: 1
+	Query: "scientificname:Rachycentron canadum" ; Times: 1
+	Query: "scientificname:Vinciguerria attenuata" ; Times: 2
+	Query: "scientificname:Mustelus mustelus" ; Times: 4
+	Query: "scientificname:Parablennius sanguinolentus" ; Times: 1
+	Query: "scientificname:Macroramphosus scolopax" ; Times: 2
+	Query: "genus:Bothrocara stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;45881" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "scientificname:Parexocoetus mento" ; Times: 1
+	Query: "amphiprion ephippium" ; Times: 1
+	Query: "scientificname:Zeus faber" ; Times: 2
+	Query: "specificepithet:helvomaculatus genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Buglossidium luteum" ; Times: 2
+	Query: "genus:Kathetostoma stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;100000" ; Times: 4
+	Query: "scientificname:Eutrigla gurnardus" ; Times: 2
+	Query: "Epinephelus radiatus" ; Times: 1
+	Query: "Acanthocybium solandri" ; Times: 1
+	Query: "Anchoa lyolepis" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 5
+	Query: "scientificname:Sarda sarda" ; Times: 2
+	Query: "genus:Poromitra distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Seriola rivoliana" ; Times: 1
+	Query: "scientificname:Cyclothone pygmaea" ; Times: 1
+	Query: "specificepithet:fierasfer genus:Lycodapus stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;56139" ; Times: 1
+	Query: "scientificname:Gadus morhua" ; Times: 1
+	Query: "specificepithet:acanthomus genus:Melamphaes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Caranx crysos" ; Times: 1
+	Query: "scientificname:Uranoscopus scaber" ; Times: 2
+	Query: "scientificname:Carcharhinus brachyurus" ; Times: 1
+	Query: "genus:Brotula stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;56139" ; Times: 1
+	Query: "scientificname:Dussumieria elopsoides" ; Times: 1
+	Query: "Aspidura" ; Times: 1
+	Query: "scientificname:Auxis thazard" ; Times: 1
+	Query: "genus:Phtheirichthys" ; Times: 2
+	Query: "Cynoscion regalis" ; Times: 1
+	Query: "specificepithet:concolor genus:Scomberomorus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gymnothorax melatremus Indian" ; Times: 1
+	Query: "scientificname:Pterois miles" ; Times: 1
+	Query: "scientificname:Symbolophorus veranyi" ; Times: 1
+	Query: "specificepithet:brachyptera genus:Remora distance(location,geopoint(33.000813059511984,-117.3000002575454))&lt;100000" ; Times: 2
+	Query: "scientificname:Auxis rochei" ; Times: 1
+	Query: "scientificname:Lithognathus mormyrus" ; Times: 2
+	Query: "scientificname:Xenodermichthys copei" ; Times: 1
+	Query: "scientificname:Callionymus pusillus" ; Times: 1
+	Query: "scientificname:Sprattus sprattus" ; Times: 1
+	Query: "Distichodus fasciolatus" ; Times: 1
+	Query: "scientificname:Myliobatis aquila" ; Times: 2
+	Query: "scientificname:Myxine glutinosa" ; Times: 1
+	Query: "scientificname:Atherinomorus lacunosus" ; Times: 1
+	Query: "scientificname:Sudis hyalina" ; Times: 1
+	Query: "scientificname:Chauliodus sloani" ; Times: 4
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "scientificname:Diaphus rafinesquii" ; Times: 1
+	Query: "scientificname:Remora brachyptera" ; Times: 1
+	Query: "scientificname:Microstoma microstoma" ; Times: 2
+	Query: "scientificname:Umbrina canariensis" ; Times: 2
+	Query: "scientificname:Melanolagus bericoides" ; Times: 1
+	Query: "scientificname:Xiphias gladius" ; Times: 1
+	Query: "scientificname:Galeorhinus galeus" ; Times: 2
+	Query: "specificepithet:vexillaris genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+	Query: "Latimeria chalumnae" ; Times: 1
+	Query: "scientificname:Epinephelus malabaricus" ; Times: 1
+	Query: "genus:Macroramphosus distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "specificepithet:niger genus:Chiasmodon stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;100000" ; Times: 1
+	Query: "scientificname:Ammodytes tobianus" ; Times: 1
+	Query: "specificepithet:alta genus:Chromis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Mola mola" ; Times: 1
+	Query: "genus:Enophrys stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 4
+	Query: "specificepithet:carnatus genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Petroscirtes breviceps" ; Times: 1
+	Query: "specificepithet:brevispinis genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Dormitator stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Howella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Hyporhamphus picarti" ; Times: 1
+	Query: "scientificname:Merluccius merluccius" ; Times: 5
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "scientificname:Sphyrna tudes" ; Times: 1
+	Query: "specificepithet:lugubris genus:Melamphaes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Tetrosomus gibbosus" ; Times: 1
+	Query: "scientificname:Scarus ghobban" ; Times: 1
+	Query: "scientificname:Trisopterus minutus" ; Times: 2
+	Query: "scientificname:Coryphaena hippurus" ; Times: 2
+	Query: "Doras carinatus" ; Times: 1
+	Query: "scientificname:Cetorhinus maximus" ; Times: 1
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "scientificname:Notoscopelus elongatus" ; Times: 1
+	Query: "scientificname:Abudefduf vaigiensis" ; Times: 1
+	Query: "scientificname:Sphoeroides spengleri" ; Times: 2
+	Query: "oreochromis aureus" ; Times: 1
+	Query: "specificepithet:oligomerus genus:Symphurus" ; Times: 1
+	Query: "Umbrina canariensis" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 1
+	Query: "scientificname:Diodon hystrix" ; Times: 1
+	Query: "scientificname:Spicara maena" ; Times: 1
+	Query: "scientificname:Tetrosomus gibbosus" ; Times: 1
+	Query: "scientificname:Scomberomorus commerson" ; Times: 1
+	Query: "specificepithet:melanosema genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:rimensis genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "scientificname:Lobianchia gemellarii" ; Times: 2
+	Query: "scientificname:Dentex dentex" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "scientificname:Diplodus annularis" ; Times: 1
+	Query: "scientificname:Lampanyctus crocodilus" ; Times: 1
+	Query: "specificepithet:aculeatus genus:Gasterosteus distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "Epinephelus cifuentesi" ; Times: 1
+	Query: "scientificname:Chlorophthalmus agassizi" ; Times: 1
+	Query: "Aphanius dispar" ; Times: 2
+	Query: "scientificname:Seriola dumerili" ; Times: 1
+	Query: "Chaenophryne melanorhabdus" ; Times: 2
+	Query: "scientificname:Gadella maraldi" ; Times: 1
+	Query: "specificepithet:denticulata genus:Nicholsina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Lepidion lepidion" ; Times: 1
+	Query: "scientificname:Maurolicus muelleri" ; Times: 2
+	Query: "specificepithet:australis genus:Remora distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;2138773" ; Times: 1
+	Query: "scientificname:Pleuronectes platessa" ; Times: 2
+	Query: "anarchias indian" ; Times: 1
+	Query: "scientificname:Benthosema suborbitale" ; Times: 2
+	Query: "Dermatolepis dermatolepis" ; Times: 1
+	Query: "genus:Dermatolepis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "loriculus" ; Times: 1
+	Query: "scientificname:Lestidiops jayakari" ; Times: 1
+	Query: "specificepithet:albescens genus:Remora distance(location,geopoint(32.50310943473548,-117.02154318100348))&lt;2138773" ; Times: 1
+	Query: "scientificname:Trichiurus lepturus" ; Times: 1
+	Query: "scientificname:Diaphus metopoclampus" ; Times: 1
+	Query: "Acipenser stellatus" ; Times: 1
+	Query: "Katsuwonus pelamis" ; Times: 1
+	Query: "scientificname:Raja miraletus" ; Times: 1
+	Query: "scientificname:Acanthocybium solandri" ; Times: 1
+	Query: "scientificname:Psenes pellucidus" ; Times: 1
+	Query: "scientificname:Thunnus albacares" ; Times: 1
+	Query: "lutjanus notatus" ; Times: 1
+	Query: "scientificname:Synagrops japonicus" ; Times: 1
+	Query: "specificepithet:babcocki genus:Sebastes distance(location,geopoint(33.10967897628963,-117.41852583426093))&lt;58373" ; Times: 1
+	Query: "scientificname:Tetragonurus cuvieri" ; Times: 1
+	Query: "genus:Embassichthys stateprovince:&#34;California&#34; distance(location,geopoint(32.98893546604006,-117.36785888671875))&lt;100000" ; Times: 2
+	Query: "scientificname:Zu cristatus" ; Times: 1
+	Query: "scientificname:Hymenocephalus italicus" ; Times: 2
+	Query: "scientificname:Fistularia petimba" ; Times: 1
+	Query: "genus:Bollmannia stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Pareutropius debauwi" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "scientificname:Odontaspis ferox" ; Times: 1
+	Query: "specificepithet:ruberrimus genus:Sebastes distance(location,geopoint(33.05444699725557,-117.33063520926093))&lt;58373.261223907095" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 705 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+
+
+End of report.
